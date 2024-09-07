@@ -4,8 +4,10 @@ import {
   PrimaryGeneratedColumn,
   CreateDateColumn,
   UpdateDateColumn,
+  OneToMany,
 } from 'typeorm';
 import { Field, ID, ObjectType } from '@nestjs/graphql';
+import { Address } from './address.entity';
 
 @ObjectType({ description: 'product ' })
 @Entity()
@@ -33,6 +35,21 @@ export class User {
   @Field()
   @Column()
   avatar: string;
+
+  @Field()
+  @Column()
+  lastname: string;  // Nuevo campo
+
+  @Field()
+  @Column()
+  cellphone: string; // Nuevo campo
+
+  @Field()
+  @Column()
+  ci: string; // Nuevo campo
+
+  @OneToMany(() => Address, address => address.user)
+  addresses: Address[];
 
   @Field()
   @CreateDateColumn({

@@ -29,6 +29,15 @@ type Category {
   products: [Product!]!
 }
 
+type Address {
+  id: ID!
+  country: String!
+  city: String!
+  address: String!
+  phone: String!
+  description: String!
+}
+
 """product """
 type User {
   id: ID!
@@ -37,6 +46,9 @@ type User {
   name: String!
   role: String!
   avatar: String!
+  lastname: String!
+  cellphone: String!
+  ci: String!
   creationAt: DateTime!
   updatedAt: DateTime!
 }
@@ -56,6 +68,7 @@ type Query {
   categories: [Category!]!
   category(id: ID!): Category!
   myProfile: User!
+  getAddresses(userId: ID!): [Address!]!
 }
 
 type Mutation {
@@ -70,6 +83,9 @@ type Mutation {
   deleteCategory(id: ID!): Boolean!
   login(email: String!, password: String!): Login!
   refreshToken(refreshToken: String!): Login!
+  addAddress(data: CreateAddressDto!): Address!
+  updateAddress(id: ID!, changes: UpdateAddressDto!): Address!
+  deleteAddress(id: ID!): Boolean!
 }
 
 input CreateProductDto {
@@ -94,6 +110,9 @@ input CreateUserDto {
   password: String!
   role: Role
   avatar: String!
+  lastname: String!
+  cellphone: String!
+  ci: String!
 }
 
 enum Role {
@@ -107,6 +126,9 @@ input UpdateUserDto {
   password: String
   role: Role
   avatar: String
+  lastname: String
+  cellphone: String
+  ci: String
 }
 
 input CreateCategoryDto {
@@ -117,4 +139,21 @@ input CreateCategoryDto {
 input UpdateCategoryDto {
   name: String
   image: String
+}
+
+input CreateAddressDto {
+  country: String!
+  department: String!
+  city: String!
+  address: String!
+  description: String
+}
+
+input UpdateAddressDto {
+  country: String
+  department: String
+  city: String
+  address: String
+  phone: String
+  description: String
 }

@@ -28,6 +28,9 @@ import { DatabaseModule } from '@db/database.module';
 
 import config from './config/config';
 import environments from './config/environments';
+import { AddressesController } from '@controllers/addresses.controller';
+import { AddressesResolver } from './resolvers/addresses.resolver';
+import { AddressesService } from '@services/addresses.service';
 
 @Module({
   imports: [
@@ -64,6 +67,7 @@ import environments from './config/environments';
     AuthController,
     CategoriesController,
     FilesController,
+    AddressesController
   ],
   providers: [
     SeedService,
@@ -77,6 +81,8 @@ import environments from './config/environments';
     UsersResolver,
     CategoriesResolver,
     AuthResolver,
+    AddressesResolver,
+    AddressesService
   ],
 })
 export class AppModule {}

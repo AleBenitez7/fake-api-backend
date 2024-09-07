@@ -45,6 +45,24 @@ export class CreateUserDto {
   @IsNotEmpty()
   @Field()
   avatar: string;
+
+  @ApiProperty()
+  @IsString()
+  @IsNotEmpty()
+  @Field()
+  lastname: string;
+
+  @ApiProperty()
+  @IsString()
+  @IsNotEmpty()
+  @Field()
+  cellphone: string; // Nuevo campo
+
+  @ApiProperty()
+  @IsString()
+  @IsNotEmpty()
+  @Field()
+  ci: string; // Nuevo campo
 }
 
 @InputType()
@@ -79,6 +97,24 @@ export class UpdateUserDto {
   @IsOptional()
   @Field({ nullable: true })
   avatar: string;
+
+  @ApiProperty()
+  @IsString()
+  @IsOptional()
+  @Field({ nullable: true })
+  lastname: string;
+
+  @ApiProperty()
+  @IsString()
+  @IsOptional()
+  @Field({ nullable: true })
+  cellphone: string;
+
+  @ApiProperty()
+  @IsString()
+  @IsOptional()
+  @Field({ nullable: true })
+  ci: string;
 }
 
 @ArgsType()
