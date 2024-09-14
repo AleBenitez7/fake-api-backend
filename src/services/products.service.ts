@@ -1,5 +1,8 @@
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
+import { Category } from 'src/database/entities/category.entity';
+import { Product } from 'src/database/entities/product.entity';
+import { FilterProductsDto, UpdateProductDto, CreateProductDto } from 'src/dtos/product.dto';
 import {
   Repository,
   MoreThanOrEqual,
@@ -9,11 +12,6 @@ import {
   And,
 } from 'typeorm';
 
-import { Product } from '@db/entities/product.entity';
-import { Category } from '@db/entities/category.entity';
-import { CreateProductDto } from '@dtos/product.dto';
-import { UpdateProductDto } from '@dtos/product.dto';
-import { FilterProductsDto } from '@dtos/product.dto';
 
 @Injectable()
 export class ProductsService {

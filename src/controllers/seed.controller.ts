@@ -1,7 +1,7 @@
 import { Controller, Post } from '@nestjs/common';
 import { ApiExcludeEndpoint } from '@nestjs/swagger';
+import { SeedService } from 'src/services/seed.service';
 
-import { SeedService } from '@services/seed.service';
 
 @Controller('seed')
 export class SeedController {

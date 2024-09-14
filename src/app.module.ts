@@ -24,13 +24,12 @@ import { CategoriesResolver } from './resolvers/categories.resolver';
 import { UsersResolver } from './resolvers/users.resolver';
 import { AuthResolver } from './resolvers/auth.resolver';
 
-import { DatabaseModule } from '@db/database.module';
 
 import config from './config/config';
 import environments from './config/environments';
-import { AddressesController } from '@controllers/addresses.controller';
 import { AddressesResolver } from './resolvers/addresses.resolver';
-import { AddressesService } from '@services/addresses.service';
+import { DatabaseModule } from './database/database.module';
+import { AddressesController } from './controllers/addresses.controller';
 
 @Module({
   imports: [

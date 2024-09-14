@@ -1,7 +1,8 @@
 import { Resolver, Query, Args, ID, Mutation } from '@nestjs/graphql';
-import { AddressesService } from '@services/addresses.service';
-import { Address } from '@db/entities/address.entity';
-import { CreateAddressDto, UpdateAddressDto } from '@dtos/address.dto';
+import { Address } from 'src/database/entities/address.entity';
+import { CreateAddressDto, UpdateAddressDto } from 'src/dtos/address.dto';
+import { AddressesService } from 'src/services/addresses.service';
+
 
 @Resolver(() => Address)
 export class AddressesResolver {

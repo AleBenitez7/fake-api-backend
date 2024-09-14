@@ -10,8 +10,8 @@ import {
   MinLength,
 } from 'class-validator';
 import { ApiProperty } from '@nestjs/swagger';
-import { Role } from '@models/roles';
 import { Field, InputType, ArgsType } from '@nestjs/graphql';
+import { Role } from 'src/models/roles';
 
 @InputType()
 export class CreateUserDto {

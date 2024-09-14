@@ -1,11 +1,8 @@
 import { Resolver, Query, Args, ID, Mutation } from '@nestjs/graphql';
-import {
-  FilterProductsDto,
-  CreateProductDto,
-  UpdateProductDto,
-} from '@dtos/product.dto';
-import { Product } from '@db/entities/product.entity';
-import { ProductsService } from '@services/products.service';
+import { Product } from 'src/database/entities/product.entity';
+import { FilterProductsDto, CreateProductDto, UpdateProductDto } from 'src/dtos/product.dto';
+import { ProductsService } from 'src/services/products.service';
+
 
 @Resolver(() => Product)
 export class ProductsResolver {

@@ -2,12 +2,12 @@ import { Injectable } from '@nestjs/common';
 import { InjectDataSource } from '@nestjs/typeorm';
 import { DataSource } from 'typeorm';
 
-import { Category } from '@db/entities/category.entity';
-import { Product } from '@db/entities/product.entity';
-import { User } from '@db/entities/user.entity';
-import { Role } from '@models/roles';
 import * as fs from 'fs';
-import { Address } from '@db/entities/address.entity';
+import { Address } from 'src/database/entities/address.entity';
+import { Category } from 'src/database/entities/category.entity';
+import { Product } from 'src/database/entities/product.entity';
+import { User } from 'src/database/entities/user.entity';
+import { Role } from 'src/models/roles';
 
 @Injectable()
 export class SeedService {

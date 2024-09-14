@@ -1,15 +1,10 @@
 import { Injectable, UnauthorizedException } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
+import { User } from 'src/database/entities/user.entity';
+import { FilterUsersDto, ValidateUserDto, CreateUserDto, UpdateUserDto } from 'src/dtos/user.dto';
+import { Role } from 'src/models/roles';
 import { Repository } from 'typeorm';
 
-import {
-  CreateUserDto,
-  FilterUsersDto,
-  ValidateUserDto,
-  UpdateUserDto,
-} from '@dtos/user.dto';
-import { User } from '@db/entities/user.entity';
-import { Role } from '@models/roles';
 
 const USERS = [1, 2, 3];
 

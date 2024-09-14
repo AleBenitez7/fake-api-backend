@@ -7,9 +7,9 @@ import {
   ManyToOne,
   JoinColumn,
 } from 'typeorm';
-import { Category } from '@db/entities/category.entity';
 import { Transform } from 'class-transformer';
 import { Field, ID, ObjectType } from '@nestjs/graphql';
+import { Category } from './category.entity';
 
 @Entity()
 @ObjectType({ description: 'product ' })

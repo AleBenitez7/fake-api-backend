@@ -1,7 +1,6 @@
 import { Controller, Get, Post, Body, Param, Put, Delete, Query, ParseIntPipe } from '@nestjs/common';
 import { AddressesService } from '../services/addresses.service';
 import { CreateAddressDto, UpdateAddressDto } from '../dtos/address.dto';
-import { Address } from '@db/entities/address.entity';
 import { ApiTags } from '@nestjs/swagger';
 
 @ApiTags('addresses')
