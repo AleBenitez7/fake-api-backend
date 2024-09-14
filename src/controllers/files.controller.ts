@@ -11,7 +11,8 @@ import { FileInterceptor } from '@nestjs/platform-express';
 import * as multer from 'multer';
 import { Response } from 'express';
 import { ApiTags } from '@nestjs/swagger';
-import { editFileName } from '@utils/file-utils';
+import { editFileName } from 'src/utils/file-utils';
+
 
 @ApiTags('files')
 @Controller('files')
