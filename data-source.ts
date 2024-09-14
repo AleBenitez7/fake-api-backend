@@ -1,6 +1,6 @@
+import { ENTITIES } from 'src/database/entities';
 import { DataSource, DataSourceOptions } from 'typeorm';
 import { SeederOptions } from 'typeorm-extension';
-import { ENTITIES } from '@db/entities';
 
 const options: DataSourceOptions & SeederOptions = {
   type: 'better-sqlite3',
