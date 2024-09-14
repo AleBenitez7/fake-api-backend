@@ -1,10 +1,10 @@
 import { ValidationPipe, ClassSerializerInterceptor } from '@nestjs/common';
 import { NestFactory, Reflector } from '@nestjs/core';
 import { SwaggerModule, DocumentBuilder } from '@nestjs/swagger';
-import { TypeORMExceptionFilter } from '@utils/filters/typeorm.filter';
 import { SeedService } from '@services/seed.service';
 
 import { AppModule } from './app.module';
+import { TypeORMExceptionFilter } from './utils/filters/typeorm.filter';
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);

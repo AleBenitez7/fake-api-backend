@@ -21,7 +21,6 @@
       "@models/*": ["./src/models/*"],
       "@strategies/*": ["./src/strategies/*"],
       "@services/*": ["./src/services/*"],
-      "@utils/*": ["./src/utils/*"],
       "@controllers/*": ["./src/controllers/*"],
       "@dtos/*": ["./src/dtos/*"],
       "@db/*": ["src/database/*"],
