@@ -2,7 +2,7 @@ import { Injectable, UnauthorizedException } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { User } from 'src/database/entities/user.entity';
 import { FilterUsersDto, ValidateUserDto, CreateUserDto, UpdateUserDto } from 'src/dtos/user.dto';
-import { Role } from 'src/models/roles';
+import { Role } from '../models/roles';
 import { Repository } from 'typeorm';
 
 

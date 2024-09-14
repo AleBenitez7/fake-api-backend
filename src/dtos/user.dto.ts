@@ -11,7 +11,7 @@ import {
 } from 'class-validator';
 import { ApiProperty } from '@nestjs/swagger';
 import { Field, InputType, ArgsType } from '@nestjs/graphql';
-import { Role } from 'src/models/roles';
+import { Role } from '../models/roles';
 
 @InputType()
 export class CreateUserDto {

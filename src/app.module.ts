@@ -30,6 +30,7 @@ import environments from './config/environments';
 import { AddressesResolver } from './resolvers/addresses.resolver';
 import { DatabaseModule } from './database/database.module';
 import { AddressesController } from './controllers/addresses.controller';
+import { AddressesService } from './services/addresses.service';
 
 @Module({
   imports: [

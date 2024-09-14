@@ -1,4 +1,6 @@
-import { User, Role } from '../../../src/models/payload.model';
+import { User } from "src/database/entities/user.entity";
+import { Role } from "src/models/roles";
+
 
 export const USER_MOCK: User = {
   email: 'rivera.armando997@gmail.com',
@@ -7,4 +9,10 @@ export const USER_MOCK: User = {
   id: 3,
   role: Role.customer,
   avatar: '',
+  lastname: "",
+  cellphone: "",
+  ci: "",
+  addresses: [],
+  creationAt: undefined,
+  updatedAt: undefined
 };

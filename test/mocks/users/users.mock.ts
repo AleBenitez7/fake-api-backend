@@ -1,4 +1,6 @@
-import { User, Role } from '../../../src/models/payload.model';
+import { User } from "src/database/entities/user.entity";
+import { Role } from "src/models/roles";
+
 
 export const USERS_MOCK: User[] = [
   {
@@ -8,6 +10,12 @@ export const USERS_MOCK: User[] = [
     name: 'Jhon',
     role: Role.customer,
     avatar: '',
+    lastname: "",
+    cellphone: "",
+    ci: "",
+    addresses: [],
+    creationAt: undefined,
+    updatedAt: undefined
   },
   {
     id: 2,
@@ -16,6 +24,12 @@ export const USERS_MOCK: User[] = [
     name: 'Maria',
     role: Role.customer,
     avatar: '',
+    lastname: "",
+    cellphone: "",
+    ci: "",
+    addresses: [],
+    creationAt: undefined,
+    updatedAt: undefined
   },
   {
     id: 3,
@@ -24,5 +38,11 @@ export const USERS_MOCK: User[] = [
     name: 'Admin',
     role: Role.admin,
     avatar: '',
+    lastname: "",
+    cellphone: "",
+    ci: "",
+    addresses: [],
+    creationAt: undefined,
+    updatedAt: undefined
   },
 ];
