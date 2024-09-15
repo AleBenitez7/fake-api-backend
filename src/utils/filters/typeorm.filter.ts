@@ -41,6 +41,8 @@ export class TypeORMExceptionFilter implements ExceptionFilter {
       detail: (exception as any)?.detail,
     };
 
-    response.status(HttpStatus.BAD_REQUEST).json(errorResponse);
+    if (!response.headersSent) {
+      response.status(HttpStatus.BAD_REQUEST).json(errorResponse);
+    }
   }
 }
