@@ -118,8 +118,9 @@ export class SeedService {
   }
 
   loadProductsJson(): any[] {
+    const productsPath = path.join(__dirname, '..', 'dataset', 'products.json');
     const products = JSON.parse(
-      fs.readFileSync('../dataset/products.json', 'utf8'),
+      fs.readFileSync(productsPath, 'utf8'),
     );
     return products;
   }
@@ -133,8 +134,9 @@ export class SeedService {
   }
 
   loadAddressesJson(): any[] {
+    const addressesPath = path.join(__dirname, '..', 'dataset', 'addresses.json');
     const addresses = JSON.parse(
-      fs.readFileSync('../dataset/addresses.json', 'utf8'),
+      fs.readFileSync(addressesPath, 'utf8'),
     );
     return addresses;
   }
