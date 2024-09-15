@@ -18,7 +18,6 @@ import { UsersService } from './services/users.service';
 import { SeedService } from './services/seed.service';
 import { LocalStrategy } from './strategies/local.strategy';
 import { JwtStrategy } from './strategies/jwt.strategy';
-import { FilesController } from './controllers/files.controller';
 import { ProductsResolver } from './resolvers/products.resolver';
 import { CategoriesResolver } from './resolvers/categories.resolver';
 import { UsersResolver } from './resolvers/users.resolver';
@@ -66,7 +65,6 @@ import { AddressesService } from './services/addresses.service';
     UsersController,
     AuthController,
     CategoriesController,
-    FilesController,
     AddressesController
   ],
   providers: [
