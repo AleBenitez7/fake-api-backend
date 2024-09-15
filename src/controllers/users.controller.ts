@@ -10,8 +10,8 @@ import {
   Delete,
 } from '@nestjs/common';
 import { ApiTags } from '@nestjs/swagger';
-import { FilterUsersDto, CreateUserDto, ValidateUserDto, UpdateUserDto } from 'src/dtos/user.dto';
-import { UsersService } from 'src/services/users.service';
+import { FilterUsersDto, CreateUserDto, ValidateUserDto, UpdateUserDto } from '../dtos/user.dto';
+import { UsersService } from '../services/users.service';
 
 
 @ApiTags('users')

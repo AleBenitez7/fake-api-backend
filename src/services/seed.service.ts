@@ -3,11 +3,11 @@ import { InjectDataSource } from '@nestjs/typeorm';
 import { DataSource } from 'typeorm';
 
 import * as fs from 'fs';
-import { Address } from 'src/database/entities/address.entity';
-import { Category } from 'src/database/entities/category.entity';
-import { Product } from 'src/database/entities/product.entity';
-import { User } from 'src/database/entities/user.entity';
-import { Role } from 'src/models/roles';
+import { Address } from '../database/entities/address.entity';
+import { Category } from '../database/entities/category.entity';
+import { Product } from '../database/entities/product.entity';
+import { User } from '../database/entities/user.entity';
+import { Role } from '../models/roles';
 
 @Injectable()
 export class SeedService {
@@ -118,21 +118,21 @@ export class SeedService {
 
   loadProductsJson(): any[] {
     const products = JSON.parse(
-      fs.readFileSync('src/dataset/products.json', 'utf8'),
+      fs.readFileSync('../dataset/products.json', 'utf8'),
     );
     return products;
   }
 
   loadCategoriesJson(): Category[] {
     const categories = JSON.parse(
-      fs.readFileSync('src/dataset/categories.json', 'utf8'),
+      fs.readFileSync('../dataset/categories.json', 'utf8'),
     );
     return categories;
   }
 
   loadAddressesJson(): any[] {
     const addresses = JSON.parse(
-      fs.readFileSync('src/dataset/addresses.json', 'utf8'),
+      fs.readFileSync('../dataset/addresses.json', 'utf8'),
     );
     return addresses;
   }

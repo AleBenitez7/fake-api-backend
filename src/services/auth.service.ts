@@ -4,9 +4,9 @@ import { ConfigType } from '@nestjs/config';
 
 
 import { UsersService } from './users.service';
-import config from 'src/config/config';
-import { User } from 'src/database/entities/user.entity';
-import { Payload } from 'src/models/payload.model';
+import config from '../config/config';
+import { User } from '../database/entities/user.entity';
+import { Payload } from '../models/payload.model';
 
 @Injectable()
 export class AuthService {

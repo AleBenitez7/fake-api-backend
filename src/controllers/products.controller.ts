@@ -10,8 +10,8 @@ import {
   ParseIntPipe,
 } from '@nestjs/common';
 import { ApiTags, ApiExcludeEndpoint } from '@nestjs/swagger';
-import { FilterProductsDto, CreateProductDto, UpdateProductDto } from 'src/dtos/product.dto';
-import { ProductsService } from 'src/services/products.service';
+import { FilterProductsDto, CreateProductDto, UpdateProductDto } from '../dtos/product.dto';
+import { ProductsService } from '../services/products.service';
 
 
 @ApiTags('products')

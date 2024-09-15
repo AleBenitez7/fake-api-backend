@@ -10,10 +10,10 @@ import {
   Delete,
 } from '@nestjs/common';
 import { ApiTags } from '@nestjs/swagger';
-import { FilterCategoriesDto, CreateCategoryDto, UpdateCategoryDto } from 'src/dtos/category.dto';
-import { FilterProductsDto } from 'src/dtos/product.dto';
-import { CategoriesService } from 'src/services/categories.service';
-import { ProductsService } from 'src/services/products.service';
+import { FilterCategoriesDto, CreateCategoryDto, UpdateCategoryDto } from '../dtos/category.dto';
+import { FilterProductsDto } from '../dtos/product.dto';
+import { CategoriesService } from '../services/categories.service';
+import { ProductsService } from '../services/products.service';
 
 
 @ApiTags('categories')

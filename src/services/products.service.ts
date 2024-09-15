@@ -1,8 +1,8 @@
 import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
-import { Category } from 'src/database/entities/category.entity';
-import { Product } from 'src/database/entities/product.entity';
-import { FilterProductsDto, UpdateProductDto, CreateProductDto } from 'src/dtos/product.dto';
+import { Category } from '../database/entities/category.entity';
+import { Product } from '../database/entities/product.entity';
+import { FilterProductsDto, UpdateProductDto, CreateProductDto } from '../dtos/product.dto';
 import {
   Repository,
   MoreThanOrEqual,

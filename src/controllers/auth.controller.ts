@@ -1,13 +1,13 @@
 import { Controller, Post, UseGuards, Req, Get, Body } from '@nestjs/common';
 import { ApiTags } from '@nestjs/swagger';
 import { Request } from 'express';
-import { User } from 'src/database/entities/user.entity';
-import { RefreshTokenDto } from 'src/dtos/auth.dto';
-import { JwtAuthGuard } from 'src/guards/jwt-auth.guard';
-import { LocalAuthGuard } from 'src/guards/local-auth.guard';
-import { Payload } from 'src/models/payload.model';
-import { AuthService } from 'src/services/auth.service';
-import { UsersService } from 'src/services/users.service';
+import { User } from '../database/entities/user.entity';
+import { RefreshTokenDto } from '../dtos/auth.dto';
+import { JwtAuthGuard } from '../guards/jwt-auth.guard';
+import { LocalAuthGuard } from '../guards/local-auth.guard';
+import { Payload } from '../models/payload.model';
+import { AuthService } from '../services//auth.service';
+import { UsersService } from '../services/users.service';
 
 
 @ApiTags('auth')

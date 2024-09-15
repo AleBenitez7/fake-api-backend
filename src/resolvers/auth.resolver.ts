@@ -1,13 +1,13 @@
 import { UseGuards } from '@nestjs/common';
 import { Resolver, Mutation, Args, Query } from '@nestjs/graphql';
-import { User } from 'src/database/entities/user.entity';
-import { CurrentUserGql } from 'src/decorators/current-user-gql.decorator';
-import { JwtAuthGqlGuard } from 'src/guards/jwt-auth-gql.guard';
-import { LocalAuthGqlGuard } from 'src/guards/local-auth-gql.guard';
-import { Login } from 'src/models/login.model';
-import { Payload } from 'src/models/payload.model';
-import { AuthService } from 'src/services/auth.service';
-import { UsersService } from 'src/services/users.service';
+import { User } from '../database/entities/user.entity';
+import { CurrentUserGql } from '../decorators/current-user-gql.decorator';
+import { JwtAuthGqlGuard } from '../guards/jwt-auth-gql.guard';
+import { LocalAuthGqlGuard } from '../guards/local-auth-gql.guard';
+import { Login } from '../models/login.model';
+import { Payload } from '../models/payload.model';
+import { AuthService } from '../services/auth.service';
+import { UsersService } from '../services/users.service';
 
 
 @Resolver()
