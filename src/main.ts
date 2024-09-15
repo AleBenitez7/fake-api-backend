@@ -23,8 +23,11 @@ async function bootstrap() {
       },
     }),
   );
+  console.log('Global pipes set.');
   app.useGlobalInterceptors(new ClassSerializerInterceptor(app.get(Reflector)));
+  console.log('Global interceptors set.');
   app.useGlobalFilters(new TypeORMExceptionFilter());
+  console.log('Global filters set.');
 
   const config = new DocumentBuilder()
     .setTitle('Platzi Fake Store API')
@@ -32,10 +35,13 @@ async function bootstrap() {
     .build();
   const document = SwaggerModule.createDocument(app, config);
   SwaggerModule.setup('api/docs', app, document);
+  console.log('Swagger documentation setup.');
 
   const seedService = app.get(SeedService);
   await seedService.init();
+  console.log('Seed service initialized.');
 
   await app.listen(process.env.PORT || 3001);
+  console.log(`Application listening on port ${process.env.PORT || 3001}`);
 }
 bootstrap();
