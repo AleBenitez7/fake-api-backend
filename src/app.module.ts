@@ -55,7 +55,7 @@ import { AddressesService } from './services/addresses.service';
       driver: ApolloDriver,
       playground: true,
       introspection: true,
-      autoSchemaFile: './schema.gql'
+      autoSchemaFile: true
     }),
     DatabaseModule,
   ],

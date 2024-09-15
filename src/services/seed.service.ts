@@ -8,7 +8,7 @@ import { Category } from '../database/entities/category.entity';
 import { Product } from '../database/entities/product.entity';
 import { User } from '../database/entities/user.entity';
 import { Role } from '../models/roles';
-import path from 'path';
+import * as path from 'path';
 
 @Injectable()
 export class SeedService {
@@ -118,7 +118,7 @@ export class SeedService {
   }
 
   loadProductsJson(): any[] {
-    const productsPath = path.join(__dirname, '..', 'dataset', 'products.json');
+    const productsPath = path.join(process.cwd(), 'src', 'dataset', 'products.json');
     const products = JSON.parse(
       fs.readFileSync(productsPath, 'utf8'),
     );
@@ -126,7 +126,7 @@ export class SeedService {
   }
 
   loadCategoriesJson(): Category[] {
-    const categoriesFilePath = path.join(__dirname, '..', 'dataset', 'categories.json');
+    const categoriesFilePath = path.join(process.cwd(), 'src', 'dataset', 'categories.json');
     const categories = JSON.parse(
       fs.readFileSync(categoriesFilePath, 'utf8'),
     );
@@ -134,7 +134,7 @@ export class SeedService {
   }
 
   loadAddressesJson(): any[] {
-    const addressesPath = path.join(__dirname, '..', 'dataset', 'addresses.json');
+    const addressesPath = path.join(process.cwd(), 'src', 'dataset', 'addresses.json');
     const addresses = JSON.parse(
       fs.readFileSync(addressesPath, 'utf8'),
     );
