@@ -8,6 +8,7 @@ import { Category } from '../database/entities/category.entity';
 import { Product } from '../database/entities/product.entity';
 import { User } from '../database/entities/user.entity';
 import { Role } from '../models/roles';
+import path from 'path';
 
 @Injectable()
 export class SeedService {
@@ -124,8 +125,9 @@ export class SeedService {
   }
 
   loadCategoriesJson(): Category[] {
+    const categoriesFilePath = path.join(__dirname, '..', 'dataset', 'categories.json');
     const categories = JSON.parse(
-      fs.readFileSync('../dataset/categories.json', 'utf8'),
+      fs.readFileSync(categoriesFilePath, 'utf8'),
     );
     return categories;
   }
