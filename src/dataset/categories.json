@@ -1,27 +1,27 @@
 [
   {
     "id": 1,
-    "name": "Clothes",
+    "name": "Ropa",
     "image": "https://i.imgur.com/QkIa5tT.jpeg"
   },
   {
     "id": 2,
-    "name": "Electronics",
+    "name": "Electrónica",
     "image": "https://i.imgur.com/ZANVnHE.jpeg"
   },
   {
     "id": 3,
-    "name": "Furniture",
+    "name": "Muebles",
     "image": "https://i.imgur.com/Qphac99.jpeg"
   },
   {
     "id": 4,
-    "name": "Shoes",
+    "name": "Zapatos",
     "image": "https://i.imgur.com/qNOjJje.jpeg"
   },
   {
     "id": 5,
-    "name": "Miscellaneous",
+    "name": "Otros",
     "image": "https://i.imgur.com/BG8J0Fj.jpg"
   }
 ]
