@@ -40,6 +40,11 @@ export class Product {
   @Column()
   images: string;
 
+  // Nueva columna para el ID del local (ubicación)
+  @Field({ nullable: true })
+  @Column({ nullable: true })
+  locationId: string;
+
   @Field()
   @CreateDateColumn({
     name: 'creation_at',

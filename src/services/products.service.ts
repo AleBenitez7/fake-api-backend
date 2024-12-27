@@ -92,6 +92,9 @@ export class ProductsService {
       changes.images = JSON.stringify(changes.images);
     }
     this.productsRepo.merge(product, changes);
+    // Asignar locationId si está presente
+    if (changes.locationId) product.locationId = changes.locationId;
+    
     return this.productsRepo.save(product);
   }
 
@@ -105,6 +108,8 @@ export class ProductsService {
       images: JSON.stringify(data.images),
     });
     newProduct.category = category;
+    // Asignar locationId si está presente
+    if (dto.locationId) newProduct.locationId = dto.locationId;
     return this.productsRepo.save(newProduct);
   }
 
