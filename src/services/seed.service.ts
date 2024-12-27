@@ -79,6 +79,7 @@ export class SeedService {
         description: product.description,
         images: product.images,
         category: categoryEntity,
+        locationId: String(product.locationId), 
       };
     });
 

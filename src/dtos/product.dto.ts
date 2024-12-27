@@ -46,6 +46,13 @@ export class CreateProductDto {
   @ArrayMinSize(1)
   @Field(() => [String])
   images: string;
+
+  // Nuevo campo para `locationId`
+  @ApiProperty({ required: false })
+  @IsString()
+  @IsOptional()
+  @Field({ nullable: true })
+  locationId: string;
 }
 
 @InputType()
@@ -81,6 +88,13 @@ export class UpdateProductDto {
   @ArrayMinSize(1)
   @Field(() => [String], { nullable: true })
   images: string;
+
+  // Nuevo campo para `locationId`
+  @ApiProperty({ required: false })
+  @IsString()
+  @IsOptional()
+  @Field({ nullable: true })
+  locationId: string;
 }
 
 @ArgsType()

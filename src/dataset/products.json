@@ -5,7 +5,8 @@
     "description": "Camiseta negra con diseño de montaña, ideal para los amantes de la naturaleza.",
     "price": 44000,
     "images": "https://i.imgur.com/QkIa5tT.jpeg,https://i.imgur.com/jb5Yu0h.jpeg,https://i.imgur.com/UlxxXyG.jpeg",
-    "category_id": "1"
+    "category_id": "1",
+    "locationId": 12345
   },
   {
     "id": "87ae06e5-7096-4ce3-af2e-1b6f8623711b",
@@ -13,7 +14,8 @@
     "description": "Buzo rojo con capucha y bolsillo canguro, cómoda y casual.",
     "price": 100000,
     "images": "https://i.imgur.com/1twoaDy.jpeg,https://i.imgur.com/FDwQgLy.jpeg,https://i.imgur.com/kg1ZhhH.jpeg",
-    "category_id": "1"
+    "category_id": "1",
+    "locationId": "1438362642"
   },
   {
     "id": "6895b836-0632-4da4-a961-e579ad7b2612",
@@ -21,7 +23,8 @@
     "description": "Buzo gris con capucha, ideal para climas frescos.",
     "price": 100000,
     "images": "https://i.imgur.com/cHddUCu.jpeg,https://i.imgur.com/CFOjAgK.jpeg,https://i.imgur.com/wbIMMme.jpeg",
-    "category_id": "1"
+    "category_id": "1",
+    "locationId": "1438362642"
   },
   {
     "id": "804ec042-9b81-4392-ac3b-76a533912d3a",
@@ -29,7 +32,8 @@
     "description": "Buzo gris suave y resistente, perfecta para días relajados.",
     "price": 90000,
     "images": "https://i.imgur.com/R2PN9Wq.jpeg,https://i.imgur.com/IvxMPFr.jpeg,https://i.imgur.com/7eW9nXP.jpeg",
-    "category_id": "1"
+    "category_id": "1",
+    "locationId": "1438362642"
   },
   {
     "id": "f8d2bcc7-dfaa-4ee2-8f9b-f1250a144a2b",
@@ -37,7 +41,8 @@
     "description": "Buzo negro cómodo y versátil para cualquier ocasión.",
     "price": 90000,
     "images": "https://i.imgur.com/cSytoSD.jpeg,https://i.imgur.com/WwKucXb.jpeg,https://i.imgur.com/cE2Dxh9.jpeg",
-    "category_id": "1"
+    "category_id": "1",
+    "locationId": "1438362642"
   },
   {
     "id": "02064888-f93e-44e2-8504-d4dbbab6ce7b",
@@ -45,7 +50,8 @@
     "description": "Pantalones deportivos negros cómodos y ligeros, perfectos para cualquier actividad.",
     "price": 250000,
     "images": "https://i.imgur.com/ZKGofuB.jpeg,https://i.imgur.com/GJi73H0.jpeg,https://i.imgur.com/633Fqrz.jpeg",
-    "category_id": "1"
+    "category_id": "1",
+    "locationId": "1438362642"
   },
   {
     "id": "f6f635a9-61e4-42ca-aba9-634f75560914",
@@ -53,7 +59,8 @@
     "description": "Pantalones deportivos cómodos con tela suave y cintura ajustable, ideales para uso diario",
     "price": 290000,
     "images": "https://i.imgur.com/mp3rUty.jpeg,https://i.imgur.com/JQRGIc2.jpeg",
-    "category_id": "1"
+    "category_id": "1",
+    "locationId": "1438362642"
   },
   {
     "id": "6886dbd4-2818-48b0-b80b-870c131a6cbb",
@@ -61,7 +68,8 @@
     "description": "Pantalones deportivos rojos cómodos con cintura ajustable y bolsillos prácticos.",
     "price": 280000,
     "images": "https://i.imgur.com/9LFjwpI.jpeg,https://i.imgur.com/vzrTgUR.jpeg,https://i.imgur.com/p5NdI6n.jpeg",
-    "category_id": "1"
+    "category_id": "1",
+    "locationId": "1438362642"
   },
   {
     "id": "2e2b511c-a078-4b9e-b926-277930b107a2",
