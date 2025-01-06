@@ -44,3 +44,6 @@ db-wal
 db.sqlite
 db.sqlite-shm
 db.sqlite-wal
+
+# Ignore package.json
+/package.json
