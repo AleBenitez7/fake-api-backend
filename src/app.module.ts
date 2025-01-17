@@ -25,6 +25,8 @@ import { UsersResolver } from './resolvers/users.resolver';
 import { AuthResolver } from './resolvers/auth.resolver';
 
 import { DatabaseModule } from '@db/database.module';
+import { EmailService } from '@services/email.service';
+import { EmailController } from '@controllers/email.controller';
 
 import config from './config/config';
 import environments from './config/environments';
@@ -64,6 +66,7 @@ import environments from './config/environments';
     AuthController,
     CategoriesController,
     FilesController,
+    EmailController,
   ],
   providers: [
     SeedService,
@@ -77,6 +80,7 @@ import environments from './config/environments';
     UsersResolver,
     CategoriesResolver,
     AuthResolver,
+    EmailService,
   ],
 })
 export class AppModule {}
