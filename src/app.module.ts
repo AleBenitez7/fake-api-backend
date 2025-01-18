@@ -31,6 +31,10 @@ import environments from './config/environments';
 import { AddressesController } from '@controllers/addresses.controller';
 import { AddressesResolver } from './resolvers/addresses.resolver';
 import { AddressesService } from '@services/addresses.service';
+import { StoreController } from '@controllers/stores.controller';
+import { StoreResolver } from './resolvers/store.resolver';
+import { StoreService } from '@services/stores.service';
+
 
 @Module({
   imports: [
@@ -67,7 +71,8 @@ import { AddressesService } from '@services/addresses.service';
     AuthController,
     CategoriesController,
     FilesController,
-    AddressesController
+    AddressesController,
+    StoreController
   ],
   providers: [
     SeedService,
@@ -75,6 +80,7 @@ import { AddressesService } from '@services/addresses.service';
     CategoriesService,
     AuthService,
     UsersService,
+    StoreService,
     LocalStrategy,
     JwtStrategy,
     ProductsResolver,
@@ -82,7 +88,8 @@ import { AddressesService } from '@services/addresses.service';
     CategoriesResolver,
     AuthResolver,
     AddressesResolver,
-    AddressesService
+    AddressesService,
+    StoreResolver
   ],
 })
 export class AppModule {}

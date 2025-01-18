@@ -8,6 +8,7 @@ import { User } from '@db/entities/user.entity';
 import { Role } from '@models/roles';
 import * as fs from 'fs';
 import { Address } from '@db/entities/address.entity';
+import { Store } from '@db/entities/store.entity';
 
 @Injectable()
 export class SeedService {
@@ -22,6 +23,7 @@ export class SeedService {
     const categoriesRepo = this.dataSource.getRepository(Category);
     const productsRepo = this.dataSource.getRepository(Product);
     const addressesRepo = this.dataSource.getRepository(Address);
+    const storesRepo = this.dataSource.getRepository(Store); 
 
     // -------- USERS --------
 
@@ -102,6 +104,19 @@ export class SeedService {
 
     await addressesRepo.save(addressesData);
 
+    // -------- STORES --------
+    const storesData = this.loadStoresJson().map((store) => {
+      return {
+        name: store.properties.name,  // Verifica que la propiedad 'name' está correctamente extraída
+        category: store.properties.shop,  // Propiedad 'shop' para la categoría
+        building: store.properties.building,  // 'building' si es necesario
+        geometry: store.geometry,  // Asegúrate de que 'geometry' se almacene en el formato correcto
+      };
+    });
+
+    // Guarda los datos de las tiendas
+    await storesRepo.save(storesData);
+
     // -------- COUNTERS --------
 
     //const users = await usersRepo.find();
@@ -136,5 +151,12 @@ export class SeedService {
       fs.readFileSync('src/dataset/addresses.json', 'utf8'),
     );
     return addresses;
+  }
+
+  loadStoresJson(): any[] {
+    const stores = JSON.parse(
+      fs.readFileSync('src/dataset/tiendas.json', 'utf8'),
+    );
+    return stores;
   }
 }
