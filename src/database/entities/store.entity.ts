@@ -1,19 +1,25 @@
-import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
+import { Entity, PrimaryColumn, Column } from 'typeorm';
 
 @Entity()
 export class Store {
-    @PrimaryGeneratedColumn()
-    id: number;
+    @PrimaryColumn()
+    id: string;
 
     @Column()
     name: string;
 
     @Column()
-    category: string;
+    shop: string;
 
     @Column()
     building: string;
 
     @Column('jsonb')
-    geometry: any;  // Si 'geometry' es un objeto complejo, usa 'jsonb' o 'json' para almacenarlo.
+    geometry: { type: string; coordinates: number[][][] };
+
+    @Column()
+    osmId: string;
+
+    @Column()
+    type: string;
 }

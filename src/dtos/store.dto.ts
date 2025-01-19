@@ -1,6 +1,9 @@
-import { IsString, IsArray, IsObject } from 'class-validator';
+import { IsString, IsObject } from 'class-validator';
 
 export class StoreDTO {
+    @IsString()
+    id: string;
+
     @IsString()
     name: string;
 
@@ -12,6 +15,9 @@ export class StoreDTO {
 
     @IsObject()
     geometry: { type: string; coordinates: number[][][] };
+
+    @IsString()
+    type: string;
 
     @IsString()
     osmId: string;

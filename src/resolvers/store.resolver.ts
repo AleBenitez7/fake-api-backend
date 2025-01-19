@@ -3,7 +3,6 @@ import { StoreDTO } from '@dtos/store.dto';
 import { Store } from '@db/entities/store.entity';
 import { StoreService } from '@services/stores.service';
 
-
 @Resolver(() => Store)
 export class StoreResolver {
     constructor(private storeService: StoreService) { }
@@ -19,7 +18,7 @@ export class StoreResolver {
     }
 
     @Query(() => Store)
-    async getStore(@Args('id') id: number): Promise<Store> {
+    async getStore(@Args('id') id: string): Promise<Store> {
         return this.storeService.findById(id);
     }
 }

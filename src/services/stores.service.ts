@@ -4,7 +4,6 @@ import { Repository } from 'typeorm';
 import { StoreDTO } from '@dtos/store.dto';
 import { Store } from '@db/entities/store.entity';
 
-
 @Injectable()
 export class StoreService {
     constructor(
@@ -21,7 +20,7 @@ export class StoreService {
         return this.storeRepository.find();
     }
 
-    async findById(id: number): Promise<Store> {
+    async findById(id: string): Promise<Store> {
         return this.storeRepository.findOne({ where: { id } });
     }
 }

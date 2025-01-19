@@ -20,7 +20,7 @@ export class StoreController {
     }
 
     @Get(':id')
-    async getStore(@Param('id') id: number): Promise<Store> {
+    async getStore(@Param('id') id: string): Promise<Store> {
         return this.storeService.findById(id);
     }
 }
