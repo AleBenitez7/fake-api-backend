@@ -1,6 +1,7 @@
 import { Address } from './address.entity';
 import { Category } from './category.entity';
 import { Product } from './product.entity';
+import { Store } from './store.entity';
 import { User } from './user.entity';
 
-export const ENTITIES = [Category, Product, User, Address];
+export const ENTITIES = [Category, Product, User, Address, Store];

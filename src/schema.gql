@@ -39,7 +39,7 @@ type Address {
   description: String!
 }
 
-"""product """
+"""user """
 type User {
   id: ID!
   email: String!
@@ -51,6 +51,16 @@ type User {
   cellphone: String!
   ci: String!
   creationAt: DateTime!
+  updatedAt: DateTime!
+}
+
+"""store"""
+type Store {
+  id: ID!
+  name: String!
+  shop: String!
+  products: [Product!]
+  createdAt: DateTime!
   updatedAt: DateTime!
 }
 
@@ -70,6 +80,8 @@ type Query {
   category(id: ID!): Category!
   myProfile: User!
   getAddresses(userId: ID!): [Address!]!
+  stores: [Store!]!
+  store(id: ID!): Store!
 }
 
 type Mutation {
@@ -87,6 +99,9 @@ type Mutation {
   addAddress(data: CreateAddressDto!): Address!
   updateAddress(id: ID!, changes: UpdateAddressDto!): Address!
   deleteAddress(id: ID!): Boolean!
+  addStore(data: CreateStoreDto!): Store!
+  updateStore(id: ID!, changes: UpdateStoreDto!): Store!
+  deleteStore(id: ID!): Boolean!
 }
 
 input CreateProductDto {
@@ -159,4 +174,14 @@ input UpdateAddressDto {
   address: String
   phone: String
   description: String
+}
+
+input CreateStoreDto {
+  name: String!
+  shop: String!
+}
+
+input UpdateStoreDto {
+  name: String
+  shop: String
 }

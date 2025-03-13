@@ -1,18 +1,33 @@
-import { IsString, IsArray, IsObject } from 'class-validator';
+import { IsString, IsNotEmpty } from 'class-validator';
+import { Field, InputType } from '@nestjs/graphql';
+import { ApiProperty } from '@nestjs/swagger';
 
-export class StoreDTO {
+@InputType()
+export class CreateStoreDto {
+    @ApiProperty()
     @IsString()
+    @IsNotEmpty()
+    @Field()
     name: string;
 
+    @ApiProperty()
     @IsString()
+    @IsNotEmpty()
+    @Field()
     shop: string;
+}
 
+@InputType()
+export class UpdateStoreDto {
+    @ApiProperty()
     @IsString()
-    building: string;
+    @IsNotEmpty()
+    @Field({ nullable: true })
+    name?: string;
 
-    @IsObject()
-    geometry: { type: string; coordinates: number[][][] };
-
+    @ApiProperty()
     @IsString()
-    osmId: string;
+    @IsNotEmpty()
+    @Field({ nullable: true })
+    shop?: string;
 }

@@ -65,7 +65,7 @@ export class SeedService {
     const users = await usersRepo.find();
 
     // -------- CATEGORIES --------
-    const categoriesData = this.loadCategoriesJson();
+    const categoriesData = this.loadCategoriesJson(); 
     const categoriesRta = await categoriesRepo.save(categoriesData);
 
     // -------- Products --------
@@ -105,16 +105,27 @@ export class SeedService {
     await addressesRepo.save(addressesData);
 
     // -------- STORES --------
+    // 🔹 Obtener las tiendas de la base de datos ANTES de hacer el map()
+    const storesRta = await storesRepo.find();
+    console.log('hola', storesRta)
+
     const storesData = this.loadStoresJson().map((store) => {
+      console.log('➡️ Procesando store:', store);
+
+      const storeId = store.id.replace('way/', '');
+      console.log('rta', storesRta)
+      const storeEntity = storesRta.find(s => String(s.id) === storeId) ?? null; // ❌ ERROR: storesRta aún no existe
+
+      console.log('🏪 storeEntity seleccionado:', storeEntity);
+
       return {
-        name: store.properties.name,  // Verifica que la propiedad 'name' está correctamente extraída
-        category: store.properties.shop,  // Propiedad 'shop' para la categoría
-        building: store.properties.building,  // 'building' si es necesario
-        geometry: store.geometry,  // Asegúrate de que 'geometry' se almacene en el formato correcto
+        name: store.name ?? 'Unknown Store',
+        store: storeEntity,
+        building: store.building ?? '',
+        geometry: store.geometry,
       };
     });
 
-    // Guarda los datos de las tiendas
     await storesRepo.save(storesData);
 
     // -------- COUNTERS --------
@@ -123,12 +134,12 @@ export class SeedService {
     const categories = await categoriesRepo.find();
     const products = await productsRepo.find();
     const addresses = await addressesRepo.find();
-
     return {
       users: users.length,
       categories: categories.length,
       products: products.length,
       addresses: addresses.length,
+      stores: storesRta.length,
     };
   }
 

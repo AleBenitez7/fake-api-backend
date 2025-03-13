@@ -6,10 +6,12 @@ import {
   UpdateDateColumn,
   ManyToOne,
   JoinColumn,
+  OneToMany,
 } from 'typeorm';
 import { Category } from '@db/entities/category.entity';
 import { Transform } from 'class-transformer';
 import { Field, ID, ObjectType } from '@nestjs/graphql';
+import { Store } from './store.entity';
 
 @Entity()
 @ObjectType({ description: 'product ' })
@@ -58,4 +60,8 @@ export class Product {
     default: () => 'CURRENT_TIMESTAMP',
   })
   updatedAt: Date;
+
+  @ManyToOne(() => Store, (store) => store.products)
+  @JoinColumn({ name: 'locationId' }) // Enlaza con la clave foránea en la DB
+  store: Store;
 }

@@ -6,7 +6,7 @@
     "price": 44000,
     "images": "https://i.imgur.com/QkIa5tT.jpeg,https://i.imgur.com/jb5Yu0h.jpeg,https://i.imgur.com/UlxxXyG.jpeg",
     "category_id": "1",
-    "locationId": 12345
+    "locationId": "14314556"
   },
   {
     "id": "87ae06e5-7096-4ce3-af2e-1b6f8623711b",
@@ -15,7 +15,7 @@
     "price": 100000,
     "images": "https://i.imgur.com/1twoaDy.jpeg,https://i.imgur.com/FDwQgLy.jpeg,https://i.imgur.com/kg1ZhhH.jpeg",
     "category_id": "1",
-    "locationId": "1438362642"
+    "locationId": "14314556"
   },
   {
     "id": "6895b836-0632-4da4-a961-e579ad7b2612",

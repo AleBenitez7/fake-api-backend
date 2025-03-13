@@ -11,6 +11,7 @@ import { ProductsController } from './controllers/products.controller';
 import { UsersController } from './controllers/users.controller';
 import { AuthController } from './controllers/auth.controller';
 import { CategoriesController } from './controllers/categories.controller';
+import { StoresController } from './controllers/stores.controller';
 import { ProductsService } from './services/products.service';
 import { CategoriesService } from './services/categories.service';
 import { AuthService } from './services/auth.service';
@@ -23,6 +24,7 @@ import { ProductsResolver } from './resolvers/products.resolver';
 import { CategoriesResolver } from './resolvers/categories.resolver';
 import { UsersResolver } from './resolvers/users.resolver';
 import { AuthResolver } from './resolvers/auth.resolver';
+import { StoresResolver } from './resolvers/store.resolver';
 
 import { DatabaseModule } from '@db/database.module';
 
@@ -31,9 +33,7 @@ import environments from './config/environments';
 import { AddressesController } from '@controllers/addresses.controller';
 import { AddressesResolver } from './resolvers/addresses.resolver';
 import { AddressesService } from '@services/addresses.service';
-import { StoreController } from '@controllers/stores.controller';
-import { StoreResolver } from './resolvers/store.resolver';
-import { StoreService } from '@services/stores.service';
+import { StoresService } from './services/stores.service';
 
 
 @Module({
@@ -72,7 +72,7 @@ import { StoreService } from '@services/stores.service';
     CategoriesController,
     FilesController,
     AddressesController,
-    StoreController
+    StoresController
   ],
   providers: [
     SeedService,
@@ -80,7 +80,7 @@ import { StoreService } from '@services/stores.service';
     CategoriesService,
     AuthService,
     UsersService,
-    StoreService,
+    StoresService,
     LocalStrategy,
     JwtStrategy,
     ProductsResolver,
@@ -89,7 +89,8 @@ import { StoreService } from '@services/stores.service';
     AuthResolver,
     AddressesResolver,
     AddressesService,
-    StoreResolver
+    StoresResolver,
+    StoresService
   ],
 })
 export class AppModule {}

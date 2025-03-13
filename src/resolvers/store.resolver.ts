@@ -1,25 +1,37 @@
-import { Resolver, Query, Mutation, Args } from '@nestjs/graphql';
-import { StoreDTO } from '@dtos/store.dto';
+import { Resolver, Query, Args, ID, Mutation } from '@nestjs/graphql';
 import { Store } from '@db/entities/store.entity';
-import { StoreService } from '@services/stores.service';
-
+import { StoresService } from '@services/stores.service';
+import { CreateStoreDto, UpdateStoreDto } from '@dtos/store.dto';
 
 @Resolver(() => Store)
-export class StoreResolver {
-    constructor(private storeService: StoreService) { }
-
-    @Mutation(() => Store)
-    async createStore(@Args('storeDto') storeDto: StoreDTO): Promise<Store> {
-        return this.storeService.create(storeDto);
-    }
+export class StoresResolver {
+    constructor(private storesService: StoresService) { }
 
     @Query(() => [Store])
-    async getStores(): Promise<Store[]> {
-        return this.storeService.findAll();
+    stores() {
+        return this.storesService.findAll();
     }
 
     @Query(() => Store)
-    async getStore(@Args('id') id: number): Promise<Store> {
-        return this.storeService.findById(id);
+    store(@Args('id', { type: () => ID }) id: number) {
+        return this.storesService.findOne(id);
+    }
+
+    @Mutation(() => Store)
+    addStore(@Args('data') dto: CreateStoreDto) {
+        return this.storesService.create(dto);
+    }
+
+    @Mutation(() => Store)
+    updateStore(
+        @Args('id', { type: () => ID }) id: number,
+        @Args('changes') changes: UpdateStoreDto,
+    ) {
+        return this.storesService.update(id, changes);
+    }
+
+    @Mutation(() => Boolean)
+    deleteStore(@Args('id', { type: () => ID }) id: number) {
+        return this.storesService.delete(id);
     }
 }

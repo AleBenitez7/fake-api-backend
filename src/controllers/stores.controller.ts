@@ -1,26 +1,47 @@
-import { Controller, Get, Post, Body, Param } from '@nestjs/common';
+import {
+    Body,
+    Controller,
+    Get,
+    Param,
+    Post,
+    Put,
+    Delete,
+    ParseIntPipe,
+} from '@nestjs/common';
 import { ApiTags } from '@nestjs/swagger';
-import { StoreDTO } from '@dtos/store.dto';
-import { StoreService } from '@services/stores.service';
-import { Store } from '@db/entities/store.entity';
+import { StoresService } from '@services/stores.service';
+import { CreateStoreDto, UpdateStoreDto } from '@dtos/store.dto';
 
 @ApiTags('stores')
 @Controller('stores')
-export class StoreController {
-    constructor(private storeService: StoreService) { }
-
-    @Post()
-    async createStore(@Body() storeDto: StoreDTO): Promise<Store> {
-        return this.storeService.create(storeDto);
-    }
+export class StoresController {
+    constructor(private storesService: StoresService) { }
 
     @Get()
-    async getStores(): Promise<Store[]> {
-        return this.storeService.findAll();
+    getAll() {
+        return this.storesService.findAll();
     }
 
     @Get(':id')
-    async getStore(@Param('id') id: number): Promise<Store> {
-        return this.storeService.findById(id);
+    getOne(@Param('id', ParseIntPipe) id: number) {
+        return this.storesService.findOne(id);
+    }
+
+    @Post()
+    create(@Body() store: CreateStoreDto) {
+        return this.storesService.create(store);
+    }
+
+    @Put(':id')
+    update(
+        @Param('id', ParseIntPipe) id: number,
+        @Body() changes: UpdateStoreDto,
+    ) {
+        return this.storesService.update(id, changes);
+    }
+
+    @Delete(':id')
+    delete(@Param('id', ParseIntPipe) id: number) {
+        return this.storesService.delete(id);
     }
 }

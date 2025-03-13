@@ -1,19 +1,38 @@
-import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
+import {
+    Entity,
+    Column,
+    PrimaryGeneratedColumn,
+    CreateDateColumn,
+    UpdateDateColumn,
+    OneToMany,
+} from 'typeorm';
+import { Product } from '@db/entities/product.entity';
+import { Field, ID, ObjectType } from '@nestjs/graphql';
 
 @Entity()
+@ObjectType({ description: 'store' })
 export class Store {
+    @Field(() => ID)
     @PrimaryGeneratedColumn()
     id: number;
 
+    @Field()
     @Column()
     name: string;
 
-    @Column()
-    category: string;
+    @Field()
+    @Column({ nullable: true })
+    shop: string;
 
-    @Column()
-    building: string;
+    @OneToMany(() => Product, (product) => product.store)
+    products: Product[];
 
-    @Column('jsonb')
-    geometry: any;  // Si 'geometry' es un objeto complejo, usa 'jsonb' o 'json' para almacenarlo.
+
+    @Field()
+    @CreateDateColumn()
+    createdAt: Date;
+
+    @Field()
+    @UpdateDateColumn()
+    updatedAt: Date;
 }
