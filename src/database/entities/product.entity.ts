@@ -62,6 +62,6 @@ export class Product {
   updatedAt: Date;
 
   @ManyToOne(() => Store, (store) => store.products)
-  @JoinColumn({ name: 'locationId' }) // Enlaza con la clave foránea en la DB
+  @JoinColumn({ name: 'locationId' })
   store: Store;
 }

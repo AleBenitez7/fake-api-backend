@@ -79,8 +79,8 @@ export class SeedService {
     // -------- Products --------
 
     const productsData = this.loadProductsJson().map((product) => {
-      const categoryEntity = categoriesRta.find((item) => item.id === parseInt(product.category_id, 10));
-      const storeEntity = storesData.find((item) => item.id === parseInt(product.locationId, 10));
+      const categoryEntity = categoriesRta.find((item) => item.id === product.category_id);
+      const storeEntity = storesData.find((item) => item.id === product.locationId);
 
       return {
         title: product.title,

@@ -13,7 +13,7 @@ import { Field, ID, ObjectType } from '@nestjs/graphql';
 @ObjectType({ description: 'store' })
 export class Store {
     @Field(() => ID)
-    @PrimaryGeneratedColumn()
+    @Column({ primary: true, type: 'text' }) 
     id: number;
 
     @Field()
