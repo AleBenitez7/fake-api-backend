@@ -102,7 +102,7 @@
     "type": ""
   },
   {
-    "id": "way/166875503",
+    "id": "166875503",
     "name": "Supermercado Stock Luque",
     "shop": "mall",
     "building": "",
@@ -160,7 +160,7 @@
     "type": ""
   },
   {
-    "id": "way/362289575",
+    "id": "362289575",
     "name": "SuperSeis",
     "shop": "supermarket",
     "building": "yes",
@@ -198,7 +198,7 @@
     "type": ""
   },
   {
-    "id": "way/459234219",
+    "id": "459234219",
     "name": "Esso",
     "shop": "convenience",
     "building": "yes",
@@ -240,7 +240,7 @@
     "type": ""
   },
   {
-    "id": "way/459667675",
+    "id": "459667675",
     "name": "El Ferretero",
     "shop": "hardware",
     "building": "yes",
@@ -278,7 +278,7 @@
     "type": ""
   },
   {
-    "id": "way/459667678",
+    "id": "459667678",
     "name": "KDSurf",
     "shop": "clothes",
     "building": "yes",
@@ -316,7 +316,7 @@
     "type": ""
   },
   {
-    "id": "way/459670955",
+    "id": "459670955",
     "name": "Constanza",
     "shop": "jewelry",
     "building": "commercial",
@@ -350,7 +350,7 @@
     "type": ""
   },
   {
-    "id": "way/459670957",
+    "id": "459670957",
     "name": "Joyeria JJ",
     "shop": "jewelry",
     "building": "commercial",
@@ -384,7 +384,7 @@
     "type": ""
   },
   {
-    "id": "way/459672894",
+    "id": "459672894",
     "name": "La Princesa",
     "shop": "clothes",
     "building": "yes",
@@ -418,7 +418,7 @@
     "type": ""
   },
   {
-    "id": "way/459884277",
+    "id": "459884277",
     "name": "L'uomo",
     "shop": "clothes",
     "building": "commercial",
@@ -452,7 +452,7 @@
     "type": ""
   },
   {
-    "id": "way/459884278",
+    "id": "459884278",
     "name": "Arr\u00faa Boutique",
     "shop": "clothes",
     "building": "yes",
@@ -486,7 +486,7 @@
     "type": ""
   },
   {
-    "id": "way/459884280",
+    "id": "459884280",
     "name": "Casa Monica",
     "shop": "clothes",
     "building": "yes",
@@ -524,7 +524,7 @@
     "type": ""
   },
   {
-    "id": "way/459887609",
+    "id": "459887609",
     "name": "Cardav Motors",
     "shop": "car",
     "building": "",
@@ -558,7 +558,7 @@
     "type": ""
   },
   {
-    "id": "way/459887610",
+    "id": "459887610",
     "name": "Vida Sana",
     "shop": "beauty",
     "building": "yes",
@@ -596,7 +596,7 @@
     "type": ""
   },
   {
-    "id": "way/459887612",
+    "id": "459887612",
     "name": "Jackeline Coiffure",
     "shop": "beauty",
     "building": "yes",
@@ -630,7 +630,7 @@
     "type": ""
   },
   {
-    "id": "way/459887613",
+    "id": "459887613",
     "name": "El Amigo",
     "shop": "pawnbroker",
     "building": "yes",
@@ -664,7 +664,7 @@
     "type": ""
   },
   {
-    "id": "way/459887614",
+    "id": "459887614",
     "name": "Bodega",
     "shop": "alcohol",
     "building": "yes",
@@ -698,7 +698,7 @@
     "type": ""
   },
   {
-    "id": "way/459887617",
+    "id": "459887617",
     "name": "Nasandy",
     "shop": "convenience",
     "building": "yes",
@@ -732,7 +732,7 @@
     "type": ""
   },
   {
-    "id": "way/459904012",
+    "id": "459904012",
     "name": "Ferreter\u00eda Campo Grande",
     "shop": "hardware",
     "building": "yes",
@@ -766,7 +766,7 @@
     "type": ""
   },
   {
-    "id": "way/459904013",
+    "id": "459904013",
     "name": "L&R",
     "shop": "hairdresser",
     "building": "yes",
@@ -800,7 +800,7 @@
     "type": ""
   },
   {
-    "id": "way/459904014",
+    "id": "459904014",
     "name": "Super Gran Via",
     "shop": "supermarket",
     "building": "yes",
@@ -854,7 +854,7 @@
     "type": ""
   },
   {
-    "id": "way/460074748",
+    "id": "460074748",
     "name": "2M Service & Ferreter\u00eda",
     "shop": "car_parts",
     "building": "commercial",
@@ -888,7 +888,7 @@
     "type": ""
   },
   {
-    "id": "way/460074750",
+    "id": "460074750",
     "name": "Ferreter\u00eda Nandu Resicolor",
     "shop": "hardware",
     "building": "yes",
@@ -926,7 +926,7 @@
     "type": ""
   },
   {
-    "id": "way/460080142",
+    "id": "460080142",
     "name": "Mini Mercado",
     "shop": "convenience",
     "building": "comercial",
@@ -960,7 +960,7 @@
     "type": ""
   },
   {
-    "id": "way/460099148",
+    "id": "460099148",
     "name": "Aslin Coiffure",
     "shop": "hairdresser",
     "building": "yes",
@@ -994,7 +994,7 @@
     "type": ""
   },
   {
-    "id": "way/460099149",
+    "id": "460099149",
     "name": "Gomeria Avenida",
     "shop": "tyres",
     "building": "yes",
@@ -1040,7 +1040,7 @@
     "type": ""
   },
   {
-    "id": "way/460099152",
+    "id": "460099152",
     "name": "Lobi La Tiendita",
     "shop": "clothes",
     "building": "yes",
@@ -1082,7 +1082,7 @@
     "type": ""
   },
   {
-    "id": "way/460102267",
+    "id": "460102267",
     "name": "Nike",
     "shop": "clothes",
     "building": "yes",
@@ -1132,7 +1132,7 @@
     "type": ""
   },
   {
-    "id": "way/460102268",
+    "id": "460102268",
     "name": "Inverfin",
     "shop": "electronics",
     "building": "yes",
@@ -1170,7 +1170,7 @@
     "type": ""
   },
   {
-    "id": "way/460102274",
+    "id": "460102274",
     "name": "Dep\u00f3sito Amarilla",
     "shop": "hardware",
     "building": "yes",
@@ -1208,7 +1208,7 @@
     "type": ""
   },
   {
-    "id": "way/460104585",
+    "id": "460104585",
     "name": "El Perico",
     "shop": "car_repair",
     "building": "yes",
@@ -1242,7 +1242,7 @@
     "type": ""
   },
   {
-    "id": "way/460111165",
+    "id": "460111165",
     "name": "El Zapat\u00f3n",
     "shop": "shoes",
     "building": "commercial",
@@ -1276,7 +1276,7 @@
     "type": ""
   },
   {
-    "id": "way/460111167",
+    "id": "460111167",
     "name": "Boutique Marcheza",
     "shop": "clothes",
     "building": "commercial",
@@ -1310,7 +1310,7 @@
     "type": ""
   },
   {
-    "id": "way/460113359",
+    "id": "460113359",
     "name": "Fiambreria El Rubito",
     "shop": "butcher",
     "building": "yes",
@@ -1356,7 +1356,7 @@
     "type": ""
   },
   {
-    "id": "way/460113361",
+    "id": "460113361",
     "name": "Baratote Bodega",
     "shop": "supermarket",
     "building": "yes",
@@ -1394,7 +1394,7 @@
     "type": ""
   },
   {
-    "id": "way/460114743",
+    "id": "460114743",
     "name": "Maribel Joyas",
     "shop": "jewelry",
     "building": "commercial",
@@ -1440,7 +1440,7 @@
     "type": ""
   },
   {
-    "id": "way/460114745",
+    "id": "460114745",
     "name": "Luminotecnia",
     "shop": "electronics",
     "building": "commercial",
@@ -1478,7 +1478,7 @@
     "type": ""
   },
   {
-    "id": "way/460253455",
+    "id": "460253455",
     "name": "Martel",
     "shop": "clothes",
     "building": "yes",
@@ -1512,7 +1512,7 @@
     "type": ""
   },
   {
-    "id": "way/460568742",
+    "id": "460568742",
     "name": "Tricolor",
     "shop": "paint",
     "building": "yes",
@@ -1546,7 +1546,7 @@
     "type": ""
   },
   {
-    "id": "way/460602577",
+    "id": "460602577",
     "name": "Autorepuestos ZB",
     "shop": "car_repair",
     "building": "comercial",
@@ -1588,7 +1588,7 @@
     "type": ""
   },
   {
-    "id": "way/460602580",
+    "id": "460602580",
     "name": "Juana Maria Creaciones",
     "shop": "clothes",
     "building": "comercial",
@@ -1622,7 +1622,7 @@
     "type": ""
   },
   {
-    "id": "way/460602582",
+    "id": "460602582",
     "name": "Ferreter\u00eda Carlos Ram\u00f3n",
     "shop": "hardware",
     "building": "comercial",
@@ -1656,7 +1656,7 @@
     "type": ""
   },
   {
-    "id": "way/460602587",
+    "id": "460602587",
     "name": "Classic",
     "shop": "furniture",
     "building": "commercial",
@@ -1690,7 +1690,7 @@
     "type": ""
   },
   {
-    "id": "way/460602594",
+    "id": "460602594",
     "name": "Electro Diesel",
     "shop": "car_parts",
     "building": "commercial",
@@ -1724,7 +1724,7 @@
     "type": ""
   },
   {
-    "id": "way/460607320",
+    "id": "460607320",
     "name": "Instaladora R.A.I",
     "shop": "hardware",
     "building": "yes",
@@ -1758,7 +1758,7 @@
     "type": ""
   },
   {
-    "id": "way/460607321",
+    "id": "460607321",
     "name": "Beatriz Calazados",
     "shop": "clothes",
     "building": "yes",
@@ -1792,7 +1792,7 @@
     "type": ""
   },
   {
-    "id": "way/460624070",
+    "id": "460624070",
     "name": "Delicatezza",
     "shop": "deli",
     "building": "yes",
@@ -1826,7 +1826,7 @@
     "type": ""
   },
   {
-    "id": "way/460624071",
+    "id": "460624071",
     "name": "Centro De Lubricantes J&J",
     "shop": "car_repair",
     "building": "yes",
@@ -1860,7 +1860,7 @@
     "type": ""
   },
   {
-    "id": "way/460624072",
+    "id": "460624072",
     "name": "Ferreter\u00eda Lopez",
     "shop": "hardware",
     "building": "yes",
@@ -1894,7 +1894,7 @@
     "type": ""
   },
   {
-    "id": "way/460624073",
+    "id": "460624073",
     "name": "Alex Bodega",
     "shop": "alcohol",
     "building": "yes",
@@ -1928,7 +1928,7 @@
     "type": ""
   },
   {
-    "id": "way/460624074",
+    "id": "460624074",
     "name": "Despensa Marile",
     "shop": "convenience",
     "building": "yes",
@@ -1962,7 +1962,7 @@
     "type": ""
   },
   {
-    "id": "way/460624077",
+    "id": "460624077",
     "name": "Mecal Muebles",
     "shop": "furniture",
     "building": "yes",
@@ -1996,7 +1996,7 @@
     "type": ""
   },
   {
-    "id": "way/460624079",
+    "id": "460624079",
     "name": "La Casa Del Pan",
     "shop": "bakery",
     "building": "yes",
@@ -2030,7 +2030,7 @@
     "type": ""
   },
   {
-    "id": "way/460624084",
+    "id": "460624084",
     "name": "Gomeria Gavilan",
     "shop": "car_repair",
     "building": "yes",
@@ -2064,7 +2064,7 @@
     "type": ""
   },
   {
-    "id": "way/460624086",
+    "id": "460624086",
     "name": "El Aborigen",
     "shop": "car_repair",
     "building": "yes",
@@ -2098,7 +2098,7 @@
     "type": ""
   },
   {
-    "id": "way/460628630",
+    "id": "460628630",
     "name": "Optica Lorena",
     "shop": "optician",
     "building": "yes",
@@ -2136,7 +2136,7 @@
     "type": ""
   },
   {
-    "id": "way/460637623",
+    "id": "460637623",
     "name": "Diefer Luque",
     "shop": "supermarket",
     "building": "commercial",
@@ -2190,7 +2190,7 @@
     "type": ""
   },
   {
-    "id": "way/460678688",
+    "id": "460678688",
     "name": "Ferreter\u00eda Elen",
     "shop": "hardware",
     "building": "commercial",
@@ -2232,7 +2232,7 @@
     "type": ""
   },
   {
-    "id": "way/460773566",
+    "id": "460773566",
     "name": "P\u00e9rez Ram\u00edrez",
     "shop": "electronics",
     "building": "yes",
@@ -2270,7 +2270,7 @@
     "type": ""
   },
   {
-    "id": "way/460795147",
+    "id": "460795147",
     "name": "El Cacique Mayorista - Minorista",
     "shop": "supermarket",
     "building": "commercial",
@@ -2324,7 +2324,7 @@
     "type": ""
   },
   {
-    "id": "way/460801158",
+    "id": "460801158",
     "name": "Q\u00e1dis",
     "shop": "beauty",
     "building": "yes",
@@ -2362,7 +2362,7 @@
     "type": ""
   },
   {
-    "id": "way/460801159",
+    "id": "460801159",
     "name": "Diego Baez",
     "shop": "bakery",
     "building": "yes",
@@ -2396,7 +2396,7 @@
     "type": ""
   },
   {
-    "id": "way/460813989",
+    "id": "460813989",
     "name": "Rodi Moto",
     "shop": "car_parts",
     "building": "yes",
@@ -2430,7 +2430,7 @@
     "type": ""
   },
   {
-    "id": "way/460814629",
+    "id": "460814629",
     "name": "Ferreter\u00eda Paloma Saite",
     "shop": "hardware",
     "building": "yes",
@@ -2468,7 +2468,7 @@
     "type": ""
   },
   {
-    "id": "way/460832358",
+    "id": "460832358",
     "name": "Casa Arce",
     "shop": "electronics",
     "building": "yes",
@@ -2502,7 +2502,7 @@
     "type": ""
   },
   {
-    "id": "way/460832359",
+    "id": "460832359",
     "name": "Bellas Coiffure",
     "shop": "hairdresser",
     "building": "yes",
@@ -2536,7 +2536,7 @@
     "type": ""
   },
   {
-    "id": "way/460833896",
+    "id": "460833896",
     "name": "Gomer\u00eda Lopez",
     "shop": "tyres",
     "building": "commercial",
@@ -2570,7 +2570,7 @@
     "type": ""
   },
   {
-    "id": "way/460833900",
+    "id": "460833900",
     "name": "Dernier Muebles",
     "shop": "furniture",
     "building": "yes",
@@ -2608,7 +2608,7 @@
     "type": ""
   },
   {
-    "id": "way/460833902",
+    "id": "460833902",
     "name": "World Call",
     "shop": "mobile_phone",
     "building": "commercial",
@@ -2642,7 +2642,7 @@
     "type": ""
   },
   {
-    "id": "way/460833903",
+    "id": "460833903",
     "name": "Iker Cell",
     "shop": "mobile_phone",
     "building": "commercial",
@@ -2676,7 +2676,7 @@
     "type": ""
   },
   {
-    "id": "way/460833904",
+    "id": "460833904",
     "name": "Electroban",
     "shop": "furniture",
     "building": "commercial",
@@ -2710,7 +2710,7 @@
     "type": ""
   },
   {
-    "id": "way/460837387",
+    "id": "460837387",
     "name": "Multitienda Fernandito",
     "shop": "supermarket",
     "building": "",
@@ -2764,7 +2764,7 @@
     "type": ""
   },
   {
-    "id": "way/460838609",
+    "id": "460838609",
     "name": "After Six",
     "shop": "clothes",
     "building": "yes",
@@ -2802,7 +2802,7 @@
     "type": ""
   },
   {
-    "id": "way/460855123",
+    "id": "460855123",
     "name": "AR Automotores",
     "shop": "car",
     "building": "commercial",
@@ -2844,7 +2844,7 @@
     "type": ""
   },
   {
-    "id": "way/460858839",
+    "id": "460858839",
     "name": "Electroban",
     "shop": "electronics",
     "building": "yes",
@@ -2878,7 +2878,7 @@
     "type": ""
   },
   {
-    "id": "way/460859806",
+    "id": "460859806",
     "name": "Ferremaz",
     "shop": "hardware",
     "building": "yes",
@@ -2912,7 +2912,7 @@
     "type": ""
   },
   {
-    "id": "way/460983420",
+    "id": "460983420",
     "name": "Electro Max",
     "shop": "electronics",
     "building": "commercial",
@@ -2950,7 +2950,7 @@
     "type": ""
   },
   {
-    "id": "way/460983425",
+    "id": "460983425",
     "name": "Casa Arce",
     "shop": "electronics",
     "building": "commercial",
@@ -2992,7 +2992,7 @@
     "type": ""
   },
   {
-    "id": "way/460983429",
+    "id": "460983429",
     "name": "Arri Repuestos",
     "shop": "car_parts",
     "building": "commercial",
@@ -3026,7 +3026,7 @@
     "type": ""
   },
   {
-    "id": "way/461012553",
+    "id": "461012553",
     "name": "Comercial San Antonio",
     "shop": "hardware",
     "building": "commercial",
@@ -3064,7 +3064,7 @@
     "type": ""
   },
   {
-    "id": "way/461014467",
+    "id": "461014467",
     "name": "Super 7",
     "shop": "convenience",
     "building": "yes",
@@ -3098,7 +3098,7 @@
     "type": ""
   },
   {
-    "id": "way/461016582",
+    "id": "461016582",
     "name": "Patrol Jeans",
     "shop": "clothes",
     "building": "yes",
@@ -3132,7 +3132,7 @@
     "type": ""
   },
   {
-    "id": "way/463276902",
+    "id": "463276902",
     "name": "Moto Repuestos",
     "shop": "motorcycle_repair",
     "building": "yes",
@@ -3174,7 +3174,7 @@
     "type": ""
   },
   {
-    "id": "way/463337137",
+    "id": "463337137",
     "name": "Chaperia Y Pintura",
     "shop": "car_repair",
     "building": "comercial",
@@ -3208,7 +3208,7 @@
     "type": ""
   },
   {
-    "id": "way/465478899",
+    "id": "465478899",
     "name": "La Luquenita",
     "shop": "supermarket",
     "building": "yes",
@@ -3242,7 +3242,7 @@
     "type": ""
   },
   {
-    "id": "way/465478900",
+    "id": "465478900",
     "name": "Bodega San Agustin",
     "shop": "convenience",
     "building": "yes",
@@ -3280,7 +3280,7 @@
     "type": ""
   },
   {
-    "id": "way/465485129",
+    "id": "465485129",
     "name": "La Luquenita",
     "shop": "supermarket",
     "building": "yes",
@@ -3314,7 +3314,7 @@
     "type": ""
   },
   {
-    "id": "way/465485981",
+    "id": "465485981",
     "name": "Chokotonia",
     "shop": "hardware",
     "building": "yes",
@@ -3348,7 +3348,7 @@
     "type": ""
   },
   {
-    "id": "way/465485982",
+    "id": "465485982",
     "name": "Bodega Aratiri",
     "shop": "convenience",
     "building": "yes",
@@ -3382,7 +3382,7 @@
     "type": ""
   },
   {
-    "id": "way/465549887",
+    "id": "465549887",
     "name": "Carniceria Noelia",
     "shop": "butcher",
     "building": "yes",
@@ -3420,7 +3420,7 @@
     "type": ""
   },
   {
-    "id": "way/465553162",
+    "id": "465553162",
     "name": "Mecal Muebles",
     "shop": "furniture",
     "building": "yes",
@@ -3458,7 +3458,7 @@
     "type": ""
   },
   {
-    "id": "way/465553702",
+    "id": "465553702",
     "name": "Frenos y embragues cardozo",
     "shop": "car_repair",
     "building": "yes",
@@ -3492,7 +3492,7 @@
     "type": ""
   },
   {
-    "id": "way/465554554",
+    "id": "465554554",
     "name": "Amklar",
     "shop": "hardware",
     "building": "yes",
@@ -3526,7 +3526,7 @@
     "type": ""
   },
   {
-    "id": "way/465558249",
+    "id": "465558249",
     "name": "Bodega El Encuentro",
     "shop": "convenience",
     "building": "yes",
@@ -3564,7 +3564,7 @@
     "type": ""
   },
   {
-    "id": "way/465558250",
+    "id": "465558250",
     "name": "Ara Comercial",
     "shop": "hardware",
     "building": "yes",
@@ -3602,7 +3602,7 @@
     "type": ""
   },
   {
-    "id": "way/465558251",
+    "id": "465558251",
     "name": "Minimercado Lilian",
     "shop": "supermarket",
     "building": "yes",
@@ -3644,7 +3644,7 @@
     "type": ""
   },
   {
-    "id": "way/465560899",
+    "id": "465560899",
     "name": "Marc Mart",
     "shop": "clothes",
     "building": "yes",
@@ -3678,7 +3678,7 @@
     "type": ""
   },
   {
-    "id": "way/465560904",
+    "id": "465560904",
     "name": "AldIto",
     "shop": "supermarket",
     "building": "",
@@ -3712,7 +3712,7 @@
     "type": ""
   },
   {
-    "id": "way/465561722",
+    "id": "465561722",
     "name": "Ferreter\u00eda Pinturer\u00eda",
     "shop": "hardware",
     "building": "yes",
@@ -3746,7 +3746,7 @@
     "type": ""
   },
   {
-    "id": "way/465689247",
+    "id": "465689247",
     "name": "Julio Cesar",
     "shop": "hardware",
     "building": "yes",
@@ -3780,7 +3780,7 @@
     "type": ""
   },
   {
-    "id": "way/465799245",
+    "id": "465799245",
     "name": "Baratote Bodega",
     "shop": "convenience",
     "building": "yes",
@@ -3814,7 +3814,7 @@
     "type": ""
   },
   {
-    "id": "way/465799246",
+    "id": "465799246",
     "name": "Cyber Max",
     "shop": "convenience",
     "building": "yes",
@@ -3848,7 +3848,7 @@
     "type": ""
   },
   {
-    "id": "way/591855940",
+    "id": "591855940",
     "name": "Ferreteria Danielito",
     "shop": "hardware",
     "building": "yes",
@@ -3886,7 +3886,7 @@
     "type": ""
   },
   {
-    "id": "way/659916868",
+    "id": "659916868",
     "name": "Spacio 1",
     "shop": "convenience",
     "building": "yes",
@@ -3920,7 +3920,7 @@
     "type": ""
   },
   {
-    "id": "way/687622456",
+    "id": "687622456",
     "name": "Peluquer\u00eda R.O.",
     "shop": "hairdresser",
     "building": "retail",
@@ -3954,7 +3954,7 @@
     "type": ""
   },
   {
-    "id": "way/687622472",
+    "id": "687622472",
     "name": "Kiosko Vivi",
     "shop": "convenience",
     "building": "kiosk",
@@ -3988,7 +3988,7 @@
     "type": ""
   },
   {
-    "id": "way/810616338",
+    "id": "810616338",
     "name": "STOCK",
     "shop": "supermarket",
     "building": "yes",
@@ -4026,7 +4026,7 @@
     "type": ""
   },
   {
-    "id": "way/840725315",
+    "id": "840725315",
     "name": "Shopping Deportes",
     "shop": "mall",
     "building": "",
@@ -4064,7 +4064,7 @@
     "type": ""
   },
   {
-    "id": "way/841021716",
+    "id": "841021716",
     "name": "Lubrifiltros",
     "shop": "car_repair",
     "building": "commercial",
@@ -4098,7 +4098,7 @@
     "type": ""
   },
   {
-    "id": "way/841475467",
+    "id": "841475467",
     "name": "Mercado de Luque",
     "shop": "supermarket",
     "building": "",
@@ -4144,7 +4144,7 @@
     "type": ""
   },
   {
-    "id": "way/856818007",
+    "id": "856818007",
     "name": "La Casa del Pintor",
     "shop": "paint",
     "building": "commercial",
@@ -4178,7 +4178,7 @@
     "type": ""
   },
   {
-    "id": "way/991611906",
+    "id": "991611906",
     "name": "Taller Linares",
     "shop": "car_repair",
     "building": "",
@@ -4212,7 +4212,7 @@
     "type": ""
   },
   {
-    "id": "way/991611907",
+    "id": "991611907",
     "name": "Taller San Antonio",
     "shop": "car_repair",
     "building": "",
@@ -4246,7 +4246,7 @@
     "type": ""
   },
   {
-    "id": "way/991611908",
+    "id": "991611908",
     "name": "Taller de Motos y Gomer\u00eda Ere Erea",
     "shop": "car_repair",
     "building": "",
@@ -4332,7 +4332,7 @@
     "type": ""
   },
   {
-    "id": "way/991620698",
+    "id": "991620698",
     "name": "Ruiz Comercial JR.",
     "shop": "mall",
     "building": "",
@@ -4386,7 +4386,7 @@
     "type": ""
   },
   {
-    "id": "way/991620699",
+    "id": "991620699",
     "name": "Coolprint",
     "shop": "mall",
     "building": "",
@@ -4420,7 +4420,7 @@
     "type": ""
   },
   {
-    "id": "way/991620700",
+    "id": "991620700",
     "name": "Casa Bonett",
     "shop": "mall",
     "building": "",
@@ -4458,7 +4458,7 @@
     "type": ""
   },
   {
-    "id": "way/991620709",
+    "id": "991620709",
     "name": "Taller Saldivar",
     "shop": "car_repair",
     "building": "",
@@ -4516,7 +4516,7 @@
     "type": ""
   },
   {
-    "id": "way/991620710",
+    "id": "991620710",
     "name": "Premium Containers Taller",
     "shop": "car_repair",
     "building": "",
@@ -4562,7 +4562,7 @@
     "type": ""
   },
   {
-    "id": "way/991620711",
+    "id": "991620711",
     "name": "Taller RyR",
     "shop": "car_repair",
     "building": "",
@@ -4596,7 +4596,7 @@
     "type": ""
   },
   {
-    "id": "way/991620733",
+    "id": "991620733",
     "name": "Marmoleria RMG",
     "shop": "mall",
     "building": "",
@@ -4674,7 +4674,7 @@
     "type": ""
   },
   {
-    "id": "way/991661827",
+    "id": "991661827",
     "name": "TWINS MARKET",
     "shop": "supermarket",
     "building": "",
@@ -4724,7 +4724,7 @@
     "type": ""
   },
   {
-    "id": "way/991661828",
+    "id": "991661828",
     "name": "MINI SUPER EXPRESS",
     "shop": "supermarket",
     "building": "",
@@ -4774,7 +4774,7 @@
     "type": ""
   },
   {
-    "id": "way/991661829",
+    "id": "991661829",
     "name": "Biggie Express Gral. Garay",
     "shop": "supermarket",
     "building": "",
@@ -4808,7 +4808,7 @@
     "type": ""
   },
   {
-    "id": "way/991661917",
+    "id": "991661917",
     "name": "Taller Roman",
     "shop": "car_repair",
     "building": "",
@@ -4842,7 +4842,7 @@
     "type": ""
   },
   {
-    "id": "way/991661918",
+    "id": "991661918",
     "name": "Taller Acosta Chaperia Y Pintura..fibra De Vidrio..pulido Electricidad Del Automovil...mecanica en Gral",
     "shop": "car_repair",
     "building": "",
@@ -4876,7 +4876,7 @@
     "type": ""
   },
   {
-    "id": "way/991661919",
+    "id": "991661919",
     "name": "Mecanica y Taller Albert.",
     "shop": "car_repair",
     "building": "",
@@ -4910,7 +4910,7 @@
     "type": ""
   },
   {
-    "id": "way/991829660",
+    "id": "991829660",
     "name": "DESPENSA SAN RAMON",
     "shop": "grocery",
     "building": "",
@@ -4944,7 +4944,7 @@
     "type": ""
   },
   {
-    "id": "way/991829661",
+    "id": "991829661",
     "name": "MR GRANOLA",
     "shop": "grocery",
     "building": "",
@@ -4978,7 +4978,7 @@
     "type": ""
   },
   {
-    "id": "way/1074405456",
+    "id": "1074405456",
     "name": "Delicias Nena",
     "shop": "convenience",
     "building": "retail",
@@ -5012,7 +5012,7 @@
     "type": ""
   },
   {
-    "id": "way/1074567999",
+    "id": "1074567999",
     "name": "Logam Babershop",
     "shop": "hairdresser",
     "building": "retail",
@@ -5046,7 +5046,7 @@
     "type": ""
   },
   {
-    "id": "way/1074568006",
+    "id": "1074568006",
     "name": "Mis Joyas y Artesan\u00edas",
     "shop": "jewelry",
     "building": "retail",
@@ -5088,7 +5088,7 @@
     "type": ""
   },
   {
-    "id": "way/1074568018",
+    "id": "1074568018",
     "name": "Joyer\u00eda Duarte",
     "shop": "jewelry",
     "building": "retail",
@@ -5138,7 +5138,7 @@
     "type": ""
   },
   {
-    "id": "way/1074568025",
+    "id": "1074568025",
     "name": "Dom\u00ednguez Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -5176,7 +5176,7 @@
     "type": ""
   },
   {
-    "id": "way/1074568027",
+    "id": "1074568027",
     "name": "Joyer\u00eda Wilson",
     "shop": "jewelry",
     "building": "retail",
@@ -5222,7 +5222,7 @@
     "type": ""
   },
   {
-    "id": "way/1074568028",
+    "id": "1074568028",
     "name": "Francy Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -5264,7 +5264,7 @@
     "type": ""
   },
   {
-    "id": "way/1074568029",
+    "id": "1074568029",
     "name": "Melissa Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -5298,7 +5298,7 @@
     "type": ""
   },
   {
-    "id": "way/1074568030",
+    "id": "1074568030",
     "name": "Manuel Deluxe",
     "shop": "jewelry",
     "building": "retail",
@@ -5336,7 +5336,7 @@
     "type": ""
   },
   {
-    "id": "way/1074568031",
+    "id": "1074568031",
     "name": "Joyas Gladys",
     "shop": "jewelry",
     "building": "retail",
@@ -5386,7 +5386,7 @@
     "type": ""
   },
   {
-    "id": "way/1074568032",
+    "id": "1074568032",
     "name": "Ra\u00fal Artesan\u00eda",
     "shop": "jewelry",
     "building": "retail",
@@ -5424,7 +5424,7 @@
     "type": ""
   },
   {
-    "id": "way/1074568033",
+    "id": "1074568033",
     "name": "G\u00e9nesis Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -5458,7 +5458,7 @@
     "type": ""
   },
   {
-    "id": "way/1074568034",
+    "id": "1074568034",
     "name": "Taller de Joyas Godoy",
     "shop": "jewelry",
     "building": "retail",
@@ -5512,7 +5512,7 @@
     "type": ""
   },
   {
-    "id": "way/1074568035",
+    "id": "1074568035",
     "name": "Joyer\u00eda Moredo",
     "shop": "jewelry",
     "building": "retail",
@@ -5558,7 +5558,7 @@
     "type": ""
   },
   {
-    "id": "way/1074568036",
+    "id": "1074568036",
     "name": "Victoria Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -5600,7 +5600,7 @@
     "type": ""
   },
   {
-    "id": "way/1074568037",
+    "id": "1074568037",
     "name": "Topacio Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -5646,7 +5646,7 @@
     "type": ""
   },
   {
-    "id": "way/1074568038",
+    "id": "1074568038",
     "name": "LR Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -5692,7 +5692,7 @@
     "type": ""
   },
   {
-    "id": "way/1074598199",
+    "id": "1074598199",
     "name": "Men Paraguay",
     "shop": "clothes",
     "building": "retail",
@@ -5738,7 +5738,7 @@
     "type": ""
   },
   {
-    "id": "way/1074598226",
+    "id": "1074598226",
     "name": "Alpha Tech Inform\u00e1tica & Electr\u00f3nica",
     "shop": "electronics",
     "building": "retail",
@@ -5772,7 +5772,7 @@
     "type": ""
   },
   {
-    "id": "way/1074598227",
+    "id": "1074598227",
     "name": "Techno American",
     "shop": "copyshop",
     "building": "retail",
@@ -5806,7 +5806,7 @@
     "type": ""
   },
   {
-    "id": "way/1074598229",
+    "id": "1074598229",
     "name": "Indutex",
     "shop": "clothes",
     "building": "retail",
@@ -5868,7 +5868,7 @@
     "type": ""
   },
   {
-    "id": "way/1074648140",
+    "id": "1074648140",
     "name": "Tecnicopias",
     "shop": "copyshop",
     "building": "retail",
@@ -5906,7 +5906,7 @@
     "type": ""
   },
   {
-    "id": "way/1074648146",
+    "id": "1074648146",
     "name": "Louvre Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -5940,7 +5940,7 @@
     "type": ""
   },
   {
-    "id": "way/1074648152",
+    "id": "1074648152",
     "name": "Baco Premium Store Luque",
     "shop": "clothes",
     "building": "yes",
@@ -5986,7 +5986,7 @@
     "type": ""
   },
   {
-    "id": "way/1074648153",
+    "id": "1074648153",
     "name": "Joyer\u00eda Alegre",
     "shop": "jewelry",
     "building": "retail",
@@ -6032,7 +6032,7 @@
     "type": ""
   },
   {
-    "id": "way/1074648154",
+    "id": "1074648154",
     "name": "Impor-Espa\u00f1a",
     "shop": "clothes",
     "building": "retail",
@@ -6070,7 +6070,7 @@
     "type": ""
   },
   {
-    "id": "way/1074648166",
+    "id": "1074648166",
     "name": "Bamb\u00fa Joya",
     "shop": "jewelry",
     "building": "retail",
@@ -6108,7 +6108,7 @@
     "type": ""
   },
   {
-    "id": "way/1074648167",
+    "id": "1074648167",
     "name": "Casa Eli Artesan\u00eda Rayti",
     "shop": "clothes",
     "building": "retail",
@@ -6150,7 +6150,7 @@
     "type": ""
   },
   {
-    "id": "way/1074648171",
+    "id": "1074648171",
     "name": "Librer\u00eda Cat\u00f3lica Virgen del Rosario",
     "shop": "books",
     "building": "retail",
@@ -6200,7 +6200,7 @@
     "type": ""
   },
   {
-    "id": "way/1074648172",
+    "id": "1074648172",
     "name": "\u00d3ptica Santa Clara",
     "shop": "optician",
     "building": "retail",
@@ -6234,7 +6234,7 @@
     "type": ""
   },
   {
-    "id": "way/1074648175",
+    "id": "1074648175",
     "name": "Lookstore",
     "shop": "clothes",
     "building": "retail",
@@ -6272,7 +6272,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726154",
+    "id": "1074726154",
     "name": "Bodega M\u00e1s Birra",
     "shop": "beverages",
     "building": "retail",
@@ -6314,7 +6314,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726157",
+    "id": "1074726157",
     "name": "HR Comercial",
     "shop": "department_store",
     "building": "retail",
@@ -6364,7 +6364,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726179",
+    "id": "1074726179",
     "name": "MELA Hair Salon",
     "shop": "hairdresser",
     "building": "retail",
@@ -6406,7 +6406,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726182",
+    "id": "1074726182",
     "name": "Billy Cell Comunicaciones",
     "shop": "electronics",
     "building": "retail",
@@ -6440,7 +6440,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726184",
+    "id": "1074726184",
     "name": "Electro House",
     "shop": "electronics",
     "building": "retail",
@@ -6474,7 +6474,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726186",
+    "id": "1074726186",
     "name": "Kodak Store",
     "shop": "electronics",
     "building": "retail",
@@ -6508,7 +6508,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726196",
+    "id": "1074726196",
     "name": "Lin Modas Multitiendas",
     "shop": "clothes",
     "building": "retail",
@@ -6566,7 +6566,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726198",
+    "id": "1074726198",
     "name": "Joyer\u00eda Mat\u00edas",
     "shop": "jewelry",
     "building": "retail",
@@ -6604,7 +6604,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726200",
+    "id": "1074726200",
     "name": "\u00c1lvaro Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -6638,7 +6638,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726201",
+    "id": "1074726201",
     "name": "Joyer\u00eda La Plaza",
     "shop": "jewelry",
     "building": "retail",
@@ -6676,7 +6676,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726202",
+    "id": "1074726202",
     "name": "Manuel Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -6734,7 +6734,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726203",
+    "id": "1074726203",
     "name": "Aghata Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -6768,7 +6768,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726204",
+    "id": "1074726204",
     "name": "Infinity Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -6802,7 +6802,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726205",
+    "id": "1074726205",
     "name": "Rosana Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -6860,7 +6860,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726206",
+    "id": "1074726206",
     "name": "Mundo Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -6898,7 +6898,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726207",
+    "id": "1074726207",
     "name": "Mathias Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -6936,7 +6936,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726208",
+    "id": "1074726208",
     "name": "Habana Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -6990,7 +6990,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726209",
+    "id": "1074726209",
     "name": "Magal\u00ed Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -7024,7 +7024,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726210",
+    "id": "1074726210",
     "name": "Oriana Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -7066,7 +7066,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726211",
+    "id": "1074726211",
     "name": "EJ Equipamientos",
     "shop": "car_parts",
     "building": "retail",
@@ -7104,7 +7104,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726212",
+    "id": "1074726212",
     "name": "Doctor Electro",
     "shop": "electronics",
     "building": "retail",
@@ -7150,7 +7150,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726214",
+    "id": "1074726214",
     "name": "Sosa Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -7184,7 +7184,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726215",
+    "id": "1074726215",
     "name": "JDM Shop 3",
     "shop": "car_parts",
     "building": "retail",
@@ -7218,7 +7218,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726216",
+    "id": "1074726216",
     "name": "Juana Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -7252,7 +7252,7 @@
     "type": ""
   },
   {
-    "id": "way/1074726218",
+    "id": "1074726218",
     "name": "Biggie Express Luque Centro",
     "shop": "convenience",
     "building": "supermarket",
@@ -7302,7 +7302,7 @@
     "type": ""
   },
   {
-    "id": "way/1074984369",
+    "id": "1074984369",
     "name": "Joyer\u00eda Diamante",
     "shop": "jewelry",
     "building": "retail",
@@ -7344,7 +7344,7 @@
     "type": ""
   },
   {
-    "id": "way/1074984371",
+    "id": "1074984371",
     "name": "Alteza Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -7382,7 +7382,7 @@
     "type": ""
   },
   {
-    "id": "way/1074984382",
+    "id": "1074984382",
     "name": "DB Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -7428,7 +7428,7 @@
     "type": ""
   },
   {
-    "id": "way/1074984394",
+    "id": "1074984394",
     "name": "Comercial Arce",
     "shop": "electronics",
     "building": "retail",
@@ -7462,7 +7462,7 @@
     "type": ""
   },
   {
-    "id": "way/1074984414",
+    "id": "1074984414",
     "name": "Chiqui Cosas",
     "shop": "clothes",
     "building": "retail",
@@ -7500,7 +7500,7 @@
     "type": ""
   },
   {
-    "id": "way/1074984417",
+    "id": "1074984417",
     "name": "Las Golosiner\u00eda",
     "shop": "confectionery",
     "building": "retail",
@@ -7538,7 +7538,7 @@
     "type": ""
   },
   {
-    "id": "way/1074984420",
+    "id": "1074984420",
     "name": "Las Mellizas Luque",
     "shop": "department_store",
     "building": "retail",
@@ -7580,7 +7580,7 @@
     "type": ""
   },
   {
-    "id": "way/1075242462",
+    "id": "1075242462",
     "name": "JJ Representaciones",
     "shop": "electronics",
     "building": "retail",
@@ -7614,7 +7614,7 @@
     "type": ""
   },
   {
-    "id": "way/1075242476",
+    "id": "1075242476",
     "name": "Jaz Modas",
     "shop": "clothes",
     "building": "retail",
@@ -7656,7 +7656,7 @@
     "type": ""
   },
   {
-    "id": "way/1075242477",
+    "id": "1075242477",
     "name": "Almac\u00e9n de Outfits",
     "shop": "clothes",
     "building": "retail",
@@ -7690,7 +7690,7 @@
     "type": ""
   },
   {
-    "id": "way/1075242480",
+    "id": "1075242480",
     "name": "Vago's",
     "shop": "clothes",
     "building": "retail",
@@ -7728,7 +7728,7 @@
     "type": ""
   },
   {
-    "id": "way/1075242481",
+    "id": "1075242481",
     "name": "Rosse Creaciones",
     "shop": "clothes",
     "building": "retail",
@@ -7762,7 +7762,7 @@
     "type": ""
   },
   {
-    "id": "way/1075242486",
+    "id": "1075242486",
     "name": "Aravera",
     "shop": "clothes",
     "building": "retail",
@@ -7800,7 +7800,7 @@
     "type": ""
   },
   {
-    "id": "way/1075242488",
+    "id": "1075242488",
     "name": "Info Service",
     "shop": "computer",
     "building": "commercial",
@@ -7846,7 +7846,7 @@
     "type": ""
   },
   {
-    "id": "way/1075242490",
+    "id": "1075242490",
     "name": "Aruba Beach Outfit",
     "shop": "clothes",
     "building": "retail",
@@ -7896,7 +7896,7 @@
     "type": ""
   },
   {
-    "id": "way/1075679030",
+    "id": "1075679030",
     "name": "Asian RM Technology",
     "shop": "electronics",
     "building": "retail",
@@ -7962,7 +7962,7 @@
     "type": ""
   },
   {
-    "id": "way/1075679042",
+    "id": "1075679042",
     "name": "Alicia Unisex",
     "shop": "hairdresser",
     "building": "retail",
@@ -8000,7 +8000,7 @@
     "type": ""
   },
   {
-    "id": "way/1075679066",
+    "id": "1075679066",
     "name": "MetroTela Luque",
     "shop": "department_store",
     "building": "retail",
@@ -8046,7 +8046,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931605",
+    "id": "1075931605",
     "name": "Petunia Moda",
     "shop": "clothes",
     "building": "retail",
@@ -8084,7 +8084,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931611",
+    "id": "1075931611",
     "name": "Chiper\u00eda Hijas de Feliciana",
     "shop": "bakery",
     "building": "retail",
@@ -8146,7 +8146,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931626",
+    "id": "1075931626",
     "name": "Autoservice Luque",
     "shop": "car_parts",
     "building": "retail",
@@ -8188,7 +8188,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931627",
+    "id": "1075931627",
     "name": "ConFitt S.R.L.",
     "shop": "bakery",
     "building": "retail",
@@ -8226,7 +8226,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931630",
+    "id": "1075931630",
     "name": "Art Golden S.R.L.",
     "shop": "jewelry",
     "building": "retail",
@@ -8268,7 +8268,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931633",
+    "id": "1075931633",
     "name": "D'Club Chicas",
     "shop": "clothes",
     "building": "retail",
@@ -8310,7 +8310,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931634",
+    "id": "1075931634",
     "name": "Maxi Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -8344,7 +8344,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931639",
+    "id": "1075931639",
     "name": "Gilbert Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -8382,7 +8382,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931640",
+    "id": "1075931640",
     "name": "OB Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -8416,7 +8416,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931642",
+    "id": "1075931642",
     "name": "Ezequiel Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -8458,7 +8458,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931646",
+    "id": "1075931646",
     "name": "Joyer\u00eda Rodr\u00edguez",
     "shop": "jewelry",
     "building": "retail",
@@ -8504,7 +8504,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931647",
+    "id": "1075931647",
     "name": "Montserrat Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -8538,7 +8538,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931648",
+    "id": "1075931648",
     "name": "Joyer\u00eda G&A",
     "shop": "jewelry",
     "building": "retail",
@@ -8576,7 +8576,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931650",
+    "id": "1075931650",
     "name": "Luj\u00e1n Joyas",
     "shop": "jewelry",
     "building": "retail",
@@ -8630,7 +8630,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931652",
+    "id": "1075931652",
     "name": "Joyer\u00eda Chichita",
     "shop": "jewelry",
     "building": "retail",
@@ -8664,7 +8664,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931655",
+    "id": "1075931655",
     "name": "Azuljoyas Py",
     "shop": "jewelry",
     "building": "retail",
@@ -8706,7 +8706,7 @@
     "type": ""
   },
   {
-    "id": "way/1075931685",
+    "id": "1075931685",
     "name": "Gabrielluc",
     "shop": "hairdresser",
     "building": "retail",
@@ -8756,7 +8756,7 @@
     "type": ""
   },
   {
-    "id": "way/1077594620",
+    "id": "1077594620",
     "name": "Studio Bom",
     "shop": "hairdresser",
     "building": "retail",
@@ -8794,7 +8794,7 @@
     "type": ""
   },
   {
-    "id": "way/1077594621",
+    "id": "1077594621",
     "name": "Nasa Jeans",
     "shop": "clothes",
     "building": "retail",
@@ -8828,7 +8828,7 @@
     "type": ""
   },
   {
-    "id": "way/1077594622",
+    "id": "1077594622",
     "name": "Jard\u00edn de Rosas",
     "shop": "florist",
     "building": "retail",
@@ -8866,7 +8866,7 @@
     "type": ""
   },
   {
-    "id": "way/1078109717",
+    "id": "1078109717",
     "name": "Moncho Hair Salon Spa",
     "shop": "hairdresser",
     "building": "retail",
@@ -8904,7 +8904,7 @@
     "type": ""
   },
   {
-    "id": "way/1078109726",
+    "id": "1078109726",
     "name": "\u00d3ptica Brit\u00e1nica",
     "shop": "optician",
     "building": "retail",
@@ -8946,7 +8946,7 @@
     "type": ""
   },
   {
-    "id": "way/1078109746",
+    "id": "1078109746",
     "name": "El Oro y el Moro",
     "shop": "clothes",
     "building": "retail",
@@ -8992,7 +8992,7 @@
     "type": ""
   },
   {
-    "id": "way/1078109768",
+    "id": "1078109768",
     "name": "Glam Nails Hair Sal\u00f3n Makeup",
     "shop": "beauty",
     "building": "retail",
@@ -9062,7 +9062,7 @@
     "type": ""
   },
   {
-    "id": "way/1078109772",
+    "id": "1078109772",
     "name": "Lucy Andrea Spa de Manos y Pies",
     "shop": "beauty",
     "building": "retail",
@@ -9096,7 +9096,7 @@
     "type": ""
   },
   {
-    "id": "way/1079132017",
+    "id": "1079132017",
     "name": "Todox35000",
     "shop": "clothes",
     "building": "retail",
@@ -9130,7 +9130,7 @@
     "type": ""
   },
   {
-    "id": "way/1079132019",
+    "id": "1079132019",
     "name": "Peluquer\u00eda Eva Dulce Tentaci\u00f3n",
     "shop": "hairdresser",
     "building": "retail",
@@ -9172,7 +9172,7 @@
     "type": ""
   },
   {
-    "id": "way/1079132034",
+    "id": "1079132034",
     "name": "Body Club",
     "shop": "clothes",
     "building": "retail",
@@ -9206,7 +9206,7 @@
     "type": ""
   },
   {
-    "id": "way/1079132041",
+    "id": "1079132041",
     "name": "OMNIA Beauty Wellness",
     "shop": "beauty",
     "building": "retail",
@@ -9248,7 +9248,7 @@
     "type": ""
   },
   {
-    "id": "way/1079132045",
+    "id": "1079132045",
     "name": "Jard\u00edn de la Paz Luque",
     "shop": "funeral_directors",
     "building": "commercial",
@@ -9294,7 +9294,7 @@
     "type": ""
   },
   {
-    "id": "way/1079132052",
+    "id": "1079132052",
     "name": "Isa Coiffure Laboratorio de Rubias",
     "shop": "hairdresser",
     "building": "retail",
@@ -9328,7 +9328,7 @@
     "type": ""
   },
   {
-    "id": "way/1079132054",
+    "id": "1079132054",
     "name": "Yhire Tintas y Toner",
     "shop": "electronics",
     "building": "retail",
@@ -9366,7 +9366,7 @@
     "type": ""
   },
   {
-    "id": "way/1115013976",
+    "id": "1115013976",
     "name": "Prestigio Audi",
     "shop": "car",
     "building": "yes",
@@ -9404,7 +9404,7 @@
     "type": ""
   },
   {
-    "id": "node/1438362642",
+    "id": "1438362642",
     "name": "Supermercado Los Jardines",
     "shop": "supermarket",
     "building": "",
@@ -9418,7 +9418,7 @@
     "type": ""
   },
   {
-    "id": "node/2289502652",
+    "id": "2289502652",
     "name": "Despensa",
     "shop": "convenience",
     "building": "",
@@ -9432,7 +9432,7 @@
     "type": ""
   },
   {
-    "id": "node/2289502673",
+    "id": "2289502673",
     "name": "Despensa",
     "shop": "convenience",
     "building": "",
@@ -9446,7 +9446,7 @@
     "type": ""
   },
   {
-    "id": "node/2289502681",
+    "id": "2289502681",
     "name": "Taller de Chaperia y pintura",
     "shop": "car_repair",
     "building": "",
@@ -9460,7 +9460,7 @@
     "type": ""
   },
   {
-    "id": "node/2289502698",
+    "id": "2289502698",
     "name": "Despensa",
     "shop": "convenience",
     "building": "",
@@ -9474,7 +9474,7 @@
     "type": ""
   },
   {
-    "id": "node/2621133289",
+    "id": "2621133289",
     "name": "Los Jardines",
     "shop": "supermarket",
     "building": "",
@@ -9488,7 +9488,7 @@
     "type": ""
   },
   {
-    "id": "node/3000556657",
+    "id": "3000556657",
     "name": "Supermercado Andrea Luc\u00eda",
     "shop": "supermarket",
     "building": "",
@@ -9502,7 +9502,7 @@
     "type": ""
   },
   {
-    "id": "node/3927049492",
+    "id": "3927049492",
     "name": "Despensa la Familia",
     "shop": "convenience",
     "building": "",
@@ -9516,7 +9516,7 @@
     "type": ""
   },
   {
-    "id": "node/4062093450",
+    "id": "4062093450",
     "name": "Despensa LaUnica",
     "shop": "convenience",
     "building": "",
@@ -9530,7 +9530,7 @@
     "type": ""
   },
   {
-    "id": "node/4100268257",
+    "id": "4100268257",
     "name": "Ahorramas",
     "shop": "supermarket",
     "building": "",
@@ -9544,7 +9544,7 @@
     "type": ""
   },
   {
-    "id": "node/4332586994",
+    "id": "4332586994",
     "name": "Super \"D\"",
     "shop": "supermarket",
     "building": "",
@@ -9558,7 +9558,7 @@
     "type": ""
   },
   {
-    "id": "node/4355689797",
+    "id": "4355689797",
     "name": "Lincoln",
     "shop": "hardware",
     "building": "",
@@ -9572,7 +9572,7 @@
     "type": ""
   },
   {
-    "id": "node/4377398492",
+    "id": "4377398492",
     "name": "Paloma Saite",
     "shop": "hardware",
     "building": "",
@@ -9586,7 +9586,7 @@
     "type": ""
   },
   {
-    "id": "node/4450561691",
+    "id": "4450561691",
     "name": "JDM Shop 3",
     "shop": "car",
     "building": "",
@@ -9600,7 +9600,7 @@
     "type": ""
   },
   {
-    "id": "node/4465198591",
+    "id": "4465198591",
     "name": "Avellana",
     "shop": "confectionery",
     "building": "",
@@ -9614,7 +9614,7 @@
     "type": ""
   },
   {
-    "id": "node/4545471790",
+    "id": "4545471790",
     "name": "Super 6",
     "shop": "supermarket",
     "building": "",
@@ -9628,7 +9628,7 @@
     "type": ""
   },
   {
-    "id": "node/4554641031",
+    "id": "4554641031",
     "name": "Carola",
     "shop": "clothes",
     "building": "",
@@ -9642,7 +9642,7 @@
     "type": ""
   },
   {
-    "id": "node/4554660273",
+    "id": "4554660273",
     "name": "Clase",
     "shop": "clothes",
     "building": "",
@@ -9656,7 +9656,7 @@
     "type": ""
   },
   {
-    "id": "node/4554660274",
+    "id": "4554660274",
     "name": "L&H Joyas",
     "shop": "jewelry",
     "building": "",
@@ -9670,7 +9670,7 @@
     "type": ""
   },
   {
-    "id": "node/4556094854",
+    "id": "4556094854",
     "name": "Ubreria Arandu",
     "shop": "stationery",
     "building": "",
@@ -9684,7 +9684,7 @@
     "type": ""
   },
   {
-    "id": "node/4556094859",
+    "id": "4556094859",
     "name": "Moon Joyas",
     "shop": "jewelry",
     "building": "",
@@ -9698,7 +9698,7 @@
     "type": ""
   },
   {
-    "id": "node/4556094863",
+    "id": "4556094863",
     "name": "Caterine",
     "shop": "shoes",
     "building": "",
@@ -9712,7 +9712,7 @@
     "type": ""
   },
   {
-    "id": "node/4556094872",
+    "id": "4556094872",
     "name": "Lizza II",
     "shop": "hairdresser",
     "building": "",
@@ -9726,7 +9726,7 @@
     "type": ""
   },
   {
-    "id": "node/4556111708",
+    "id": "4556111708",
     "name": "Alkosto",
     "shop": "electronics",
     "building": "",
@@ -9740,7 +9740,7 @@
     "type": ""
   },
   {
-    "id": "node/4556111709",
+    "id": "4556111709",
     "name": "Tigo",
     "shop": "electronics",
     "building": "",
@@ -9754,7 +9754,7 @@
     "type": ""
   },
   {
-    "id": "node/4556111724",
+    "id": "4556111724",
     "name": "Casa M&M",
     "shop": "clothes",
     "building": "",
@@ -9768,7 +9768,7 @@
     "type": ""
   },
   {
-    "id": "node/4556111725",
+    "id": "4556111725",
     "name": "Noe Boutique",
     "shop": "clothes",
     "building": "",
@@ -9782,7 +9782,7 @@
     "type": ""
   },
   {
-    "id": "node/4556111741",
+    "id": "4556111741",
     "name": "Electro Facil",
     "shop": "electronics",
     "building": "",
@@ -9796,7 +9796,7 @@
     "type": ""
   },
   {
-    "id": "node/4556111746",
+    "id": "4556111746",
     "name": "Nova",
     "shop": "stationery",
     "building": "",
@@ -9810,7 +9810,7 @@
     "type": ""
   },
   {
-    "id": "node/4556123067",
+    "id": "4556123067",
     "name": "Zapateria",
     "shop": "shoes",
     "building": "",
@@ -9824,7 +9824,7 @@
     "type": ""
   },
   {
-    "id": "node/4556125707",
+    "id": "4556125707",
     "name": "Roman Repuestos",
     "shop": "motorcycle_repair",
     "building": "",
@@ -9838,7 +9838,7 @@
     "type": ""
   },
   {
-    "id": "node/4556161313",
+    "id": "4556161313",
     "name": "Color Shop",
     "shop": "paint",
     "building": "",
@@ -9852,7 +9852,7 @@
     "type": ""
   },
   {
-    "id": "node/4556161314",
+    "id": "4556161314",
     "name": "Fono Mas",
     "shop": "electronics",
     "building": "",
@@ -9866,7 +9866,7 @@
     "type": ""
   },
   {
-    "id": "node/4556161326",
+    "id": "4556161326",
     "name": "Real",
     "shop": "pawnbroker",
     "building": "",
@@ -9880,7 +9880,7 @@
     "type": ""
   },
   {
-    "id": "node/4557788881",
+    "id": "4557788881",
     "name": "Cabi Electricidad",
     "shop": "electronics",
     "building": "",
@@ -9894,7 +9894,7 @@
     "type": ""
   },
   {
-    "id": "node/4557789633",
+    "id": "4557789633",
     "name": "Leo Car",
     "shop": "car_parts",
     "building": "",
@@ -9908,7 +9908,7 @@
     "type": ""
   },
   {
-    "id": "node/4557813365",
+    "id": "4557813365",
     "name": "DermoBeaut",
     "shop": "beauty",
     "building": "",
@@ -9922,7 +9922,7 @@
     "type": ""
   },
   {
-    "id": "node/4557871599",
+    "id": "4557871599",
     "name": "Zona Jeans",
     "shop": "clothes",
     "building": "",
@@ -9936,7 +9936,7 @@
     "type": ""
   },
   {
-    "id": "node/4557871600",
+    "id": "4557871600",
     "name": "Servicio T\u00e9cnico",
     "shop": "mobile_phone",
     "building": "",
@@ -9950,7 +9950,7 @@
     "type": ""
   },
   {
-    "id": "node/4557871602",
+    "id": "4557871602",
     "name": "Energy Drugstore",
     "shop": "chemist",
     "building": "",
@@ -9964,7 +9964,7 @@
     "type": ""
   },
   {
-    "id": "node/4557871607",
+    "id": "4557871607",
     "name": "La Pelle",
     "shop": "clothes",
     "building": "",
@@ -9978,7 +9978,7 @@
     "type": ""
   },
   {
-    "id": "node/4557890626",
+    "id": "4557890626",
     "name": "Peluquer\u00eda Nelson",
     "shop": "hairdresser",
     "building": "",
@@ -9992,7 +9992,7 @@
     "type": ""
   },
   {
-    "id": "node/4557890649",
+    "id": "4557890649",
     "name": "Peluquer\u00eda Azul y Oro",
     "shop": "hairdresser",
     "building": "",
@@ -10006,7 +10006,7 @@
     "type": ""
   },
   {
-    "id": "node/4557896957",
+    "id": "4557896957",
     "name": "Ferreter\u00eda Riquelme",
     "shop": "hardware",
     "building": "",
@@ -10020,7 +10020,7 @@
     "type": ""
   },
   {
-    "id": "node/4559367878",
+    "id": "4559367878",
     "name": "Billstone",
     "shop": "tyres",
     "building": "",
@@ -10034,7 +10034,7 @@
     "type": ""
   },
   {
-    "id": "node/4561975526",
+    "id": "4561975526",
     "name": "Amanecer Pinturas",
     "shop": "paint",
     "building": "",
@@ -10048,7 +10048,7 @@
     "type": ""
   },
   {
-    "id": "node/4562010190",
+    "id": "4562010190",
     "name": "Tendencias",
     "shop": "beauty",
     "building": "",
@@ -10062,7 +10062,7 @@
     "type": ""
   },
   {
-    "id": "node/4562010191",
+    "id": "4562010191",
     "name": "Acuario Eco",
     "shop": "pet",
     "building": "",
@@ -10076,7 +10076,7 @@
     "type": ""
   },
   {
-    "id": "node/4562463335",
+    "id": "4562463335",
     "name": "Copetrol Go",
     "shop": "convenience",
     "building": "",
@@ -10090,7 +10090,7 @@
     "type": ""
   },
   {
-    "id": "node/4562463336",
+    "id": "4562463336",
     "name": "Taller Rios Bicci Moto",
     "shop": "bicycle",
     "building": "",
@@ -10104,7 +10104,7 @@
     "type": ""
   },
   {
-    "id": "node/4562463347",
+    "id": "4562463347",
     "name": "Robert Games",
     "shop": "video_games",
     "building": "",
@@ -10118,7 +10118,7 @@
     "type": ""
   },
   {
-    "id": "node/4562463348",
+    "id": "4562463348",
     "name": "Caterine Outlet",
     "shop": "clothes",
     "building": "",
@@ -10132,7 +10132,7 @@
     "type": ""
   },
   {
-    "id": "node/4562463361",
+    "id": "4562463361",
     "name": "Flores Dent",
     "shop": "florist",
     "building": "",
@@ -10146,7 +10146,7 @@
     "type": ""
   },
   {
-    "id": "node/4562463362",
+    "id": "4562463362",
     "name": "Lodevero",
     "shop": "books",
     "building": "",
@@ -10160,7 +10160,7 @@
     "type": ""
   },
   {
-    "id": "node/4562463368",
+    "id": "4562463368",
     "name": "Electronica Y Refrigeracion",
     "shop": "electronics",
     "building": "",
@@ -10174,7 +10174,7 @@
     "type": ""
   },
   {
-    "id": "node/4562463369",
+    "id": "4562463369",
     "name": "Auto Repuestos Alto",
     "shop": "car_parts",
     "building": "",
@@ -10188,7 +10188,7 @@
     "type": ""
   },
   {
-    "id": "node/4562463374",
+    "id": "4562463374",
     "name": "Camedon Delicias",
     "shop": "deli",
     "building": "",
@@ -10202,7 +10202,7 @@
     "type": ""
   },
   {
-    "id": "node/4562508312",
+    "id": "4562508312",
     "name": "Siete Impresiones",
     "shop": "copyshop",
     "building": "",
@@ -10216,7 +10216,7 @@
     "type": ""
   },
   {
-    "id": "node/4562508314",
+    "id": "4562508314",
     "name": "Lubricantes Sofi\u00e1",
     "shop": "car_parts",
     "building": "",
@@ -10230,7 +10230,7 @@
     "type": ""
   },
   {
-    "id": "node/4562569479",
+    "id": "4562569479",
     "name": "La Pelu de Laura",
     "shop": "beauty",
     "building": "",
@@ -10244,7 +10244,7 @@
     "type": ""
   },
   {
-    "id": "node/4562569480",
+    "id": "4562569480",
     "name": "Arte & Estilo Coiffure",
     "shop": "hairdresser",
     "building": "",
@@ -10258,7 +10258,7 @@
     "type": ""
   },
   {
-    "id": "node/4562569485",
+    "id": "4562569485",
     "name": "Optica Valemar",
     "shop": "optician",
     "building": "",
@@ -10272,7 +10272,7 @@
     "type": ""
   },
   {
-    "id": "node/4562569486",
+    "id": "4562569486",
     "name": "Consultorio de Oculista",
     "shop": "optician",
     "building": "",
@@ -10286,7 +10286,7 @@
     "type": ""
   },
   {
-    "id": "node/4562574600",
+    "id": "4562574600",
     "name": "Carlao Cell",
     "shop": "mobile_phone",
     "building": "",
@@ -10300,7 +10300,7 @@
     "type": ""
   },
   {
-    "id": "node/4562574602",
+    "id": "4562574602",
     "name": "P.D Cell",
     "shop": "mobile_phone",
     "building": "",
@@ -10314,7 +10314,7 @@
     "type": ""
   },
   {
-    "id": "node/4562574603",
+    "id": "4562574603",
     "name": "C&C Electronica",
     "shop": "mobile_phone",
     "building": "",
@@ -10328,7 +10328,7 @@
     "type": ""
   },
   {
-    "id": "node/4562574604",
+    "id": "4562574604",
     "name": "Punto Serigr\u00e1fico",
     "shop": "copyshop",
     "building": "",
@@ -10342,7 +10342,7 @@
     "type": ""
   },
   {
-    "id": "node/4562574605",
+    "id": "4562574605",
     "name": "Sabipar Comercial",
     "shop": "shoes",
     "building": "",
@@ -10356,7 +10356,7 @@
     "type": ""
   },
   {
-    "id": "node/4562687681",
+    "id": "4562687681",
     "name": "Carol Cosmetics",
     "shop": "beauty",
     "building": "",
@@ -10370,7 +10370,7 @@
     "type": ""
   },
   {
-    "id": "node/4562687682",
+    "id": "4562687682",
     "name": "La Tienda del Jeans",
     "shop": "clothes",
     "building": "",
@@ -10384,7 +10384,7 @@
     "type": ""
   },
   {
-    "id": "node/4562687684",
+    "id": "4562687684",
     "name": "Luma Calzados",
     "shop": "shoes",
     "building": "",
@@ -10398,7 +10398,7 @@
     "type": ""
   },
   {
-    "id": "node/4562687692",
+    "id": "4562687692",
     "name": "Walzar Comunicaciones",
     "shop": "mobile_phone",
     "building": "",
@@ -10412,7 +10412,7 @@
     "type": ""
   },
   {
-    "id": "node/4564005579",
+    "id": "4564005579",
     "name": "Ferreter\u00eda San Cayetano",
     "shop": "hardware",
     "building": "",
@@ -10426,7 +10426,7 @@
     "type": ""
   },
   {
-    "id": "node/4564005587",
+    "id": "4564005587",
     "name": "Thiara",
     "shop": "electronics",
     "building": "",
@@ -10440,7 +10440,7 @@
     "type": ""
   },
   {
-    "id": "node/4564317648",
+    "id": "4564317648",
     "name": "Amanecer",
     "shop": "hardware",
     "building": "",
@@ -10454,7 +10454,7 @@
     "type": ""
   },
   {
-    "id": "node/4564317649",
+    "id": "4564317649",
     "name": "Open Drink",
     "shop": "alcohol",
     "building": "",
@@ -10468,7 +10468,7 @@
     "type": ""
   },
   {
-    "id": "node/4564317650",
+    "id": "4564317650",
     "name": "M&P Coiffure",
     "shop": "hairdresser",
     "building": "",
@@ -10482,7 +10482,7 @@
     "type": ""
   },
   {
-    "id": "node/4564317680",
+    "id": "4564317680",
     "name": "Mandala Boutique",
     "shop": "clothes",
     "building": "",
@@ -10496,7 +10496,7 @@
     "type": ""
   },
   {
-    "id": "node/4564317686",
+    "id": "4564317686",
     "name": "Multimuebles",
     "shop": "furniture",
     "building": "",
@@ -10510,7 +10510,7 @@
     "type": ""
   },
   {
-    "id": "node/4564334352",
+    "id": "4564334352",
     "name": "Grader\u00eda Norte",
     "shop": "ticket",
     "building": "",
@@ -10524,7 +10524,7 @@
     "type": ""
   },
   {
-    "id": "node/4564334353",
+    "id": "4564334353",
     "name": "Martina Boutique",
     "shop": "clothes",
     "building": "",
@@ -10538,7 +10538,7 @@
     "type": ""
   },
   {
-    "id": "node/4564334372",
+    "id": "4564334372",
     "name": "Zuny Electronica",
     "shop": "electronics",
     "building": "",
@@ -10552,7 +10552,7 @@
     "type": ""
   },
   {
-    "id": "node/4564369022",
+    "id": "4564369022",
     "name": "Sol",
     "shop": "clothes",
     "building": "",
@@ -10566,7 +10566,7 @@
     "type": ""
   },
   {
-    "id": "node/4564510409",
+    "id": "4564510409",
     "name": "Parana Lubritecnia",
     "shop": "car_repair",
     "building": "",
@@ -10580,7 +10580,7 @@
     "type": ""
   },
   {
-    "id": "node/4565502375",
+    "id": "4565502375",
     "name": "Comercial Espinola",
     "shop": "furniture",
     "building": "",
@@ -10594,7 +10594,7 @@
     "type": ""
   },
   {
-    "id": "node/4565502387",
+    "id": "4565502387",
     "name": "Rapid Cell",
     "shop": "mobile_phone",
     "building": "",
@@ -10608,7 +10608,7 @@
     "type": ""
   },
   {
-    "id": "node/4565537350",
+    "id": "4565537350",
     "name": "Cele Cell",
     "shop": "mobile_phone",
     "building": "",
@@ -10622,7 +10622,7 @@
     "type": ""
   },
   {
-    "id": "node/4565537355",
+    "id": "4565537355",
     "name": "Zapater\u00eda Sotelo",
     "shop": "clothes",
     "building": "",
@@ -10636,7 +10636,7 @@
     "type": ""
   },
   {
-    "id": "node/4565537356",
+    "id": "4565537356",
     "name": "Kuarahy Cell",
     "shop": "mobile_phone",
     "building": "",
@@ -10650,7 +10650,7 @@
     "type": ""
   },
   {
-    "id": "node/4565779153",
+    "id": "4565779153",
     "name": "New Carite",
     "shop": "hairdresser",
     "building": "",
@@ -10664,7 +10664,7 @@
     "type": ""
   },
   {
-    "id": "node/4565779177",
+    "id": "4565779177",
     "name": "Tela Outlet",
     "shop": "clothes",
     "building": "",
@@ -10678,7 +10678,7 @@
     "type": ""
   },
   {
-    "id": "node/4565805293",
+    "id": "4565805293",
     "name": "Empe\u00f1os Solar",
     "shop": "pawnbroker",
     "building": "",
@@ -10692,7 +10692,7 @@
     "type": ""
   },
   {
-    "id": "node/4565805298",
+    "id": "4565805298",
     "name": "Coyote",
     "shop": "car_parts",
     "building": "",
@@ -10706,7 +10706,7 @@
     "type": ""
   },
   {
-    "id": "node/4565805299",
+    "id": "4565805299",
     "name": "Math Peluquer\u00eda",
     "shop": "hairdresser",
     "building": "",
@@ -10720,7 +10720,7 @@
     "type": ""
   },
   {
-    "id": "node/4565819510",
+    "id": "4565819510",
     "name": "Danniela Boutique",
     "shop": "clothes",
     "building": "",
@@ -10734,7 +10734,7 @@
     "type": ""
   },
   {
-    "id": "node/4571678092",
+    "id": "4571678092",
     "name": "Zona Jeans",
     "shop": "clothes",
     "building": "",
@@ -10748,7 +10748,7 @@
     "type": ""
   },
   {
-    "id": "node/4585608766",
+    "id": "4585608766",
     "name": "Alineacion Balanceo",
     "shop": "car_repair",
     "building": "",
@@ -10762,7 +10762,7 @@
     "type": ""
   },
   {
-    "id": "node/4585608767",
+    "id": "4585608767",
     "name": "Gomeria Avenida",
     "shop": "tyres",
     "building": "",
@@ -10776,7 +10776,7 @@
     "type": ""
   },
   {
-    "id": "node/4585608769",
+    "id": "4585608769",
     "name": "Jardin Paraiso",
     "shop": "funeral_directors",
     "building": "",
@@ -10790,7 +10790,7 @@
     "type": ""
   },
   {
-    "id": "node/4586079450",
+    "id": "4586079450",
     "name": "Indigo Jeans",
     "shop": "clothes",
     "building": "",
@@ -10804,7 +10804,7 @@
     "type": ""
   },
   {
-    "id": "node/4586079456",
+    "id": "4586079456",
     "name": "Ponzo Informatica",
     "shop": "computer",
     "building": "",
@@ -10818,7 +10818,7 @@
     "type": ""
   },
   {
-    "id": "node/4586079465",
+    "id": "4586079465",
     "name": "Jc Electronica",
     "shop": "electronics",
     "building": "",
@@ -10832,7 +10832,7 @@
     "type": ""
   },
   {
-    "id": "node/4586079466",
+    "id": "4586079466",
     "name": "Virgo Joyas",
     "shop": "jewelry",
     "building": "",
@@ -10846,7 +10846,7 @@
     "type": ""
   },
   {
-    "id": "node/4586133061",
+    "id": "4586133061",
     "name": "Reparacion De Celulares",
     "shop": "mobile_phone",
     "building": "",
@@ -10860,7 +10860,7 @@
     "type": ""
   },
   {
-    "id": "node/4586133067",
+    "id": "4586133067",
     "name": "Casa Danny",
     "shop": "clothes",
     "building": "",
@@ -10874,7 +10874,7 @@
     "type": ""
   },
   {
-    "id": "node/4586133068",
+    "id": "4586133068",
     "name": "Autorepuestos Popeye",
     "shop": "car_repair",
     "building": "",
@@ -10888,7 +10888,7 @@
     "type": ""
   },
   {
-    "id": "node/4586133069",
+    "id": "4586133069",
     "name": "Electrocell",
     "shop": "electronics",
     "building": "",
@@ -10902,7 +10902,7 @@
     "type": ""
   },
   {
-    "id": "node/4586133070",
+    "id": "4586133070",
     "name": "Empenos El Amigo",
     "shop": "pawnbroker",
     "building": "",
@@ -10916,7 +10916,7 @@
     "type": ""
   },
   {
-    "id": "node/4586133071",
+    "id": "4586133071",
     "name": "Yuliana Peluqueria",
     "shop": "hairdresser",
     "building": "",
@@ -10930,7 +10930,7 @@
     "type": ""
   },
   {
-    "id": "node/4586133072",
+    "id": "4586133072",
     "name": "Only",
     "shop": "clothes",
     "building": "",
@@ -10944,7 +10944,7 @@
     "type": ""
   },
   {
-    "id": "node/4586133073",
+    "id": "4586133073",
     "name": "Bella's",
     "shop": "hairdresser",
     "building": "",
@@ -10958,7 +10958,7 @@
     "type": ""
   },
   {
-    "id": "node/4586133082",
+    "id": "4586133082",
     "name": "Favisol",
     "shop": "beauty",
     "building": "",
@@ -10972,7 +10972,7 @@
     "type": ""
   },
   {
-    "id": "node/4586133083",
+    "id": "4586133083",
     "name": "Acumuladores JH",
     "shop": "car_parts",
     "building": "",
@@ -10986,7 +10986,7 @@
     "type": ""
   },
   {
-    "id": "node/4586133085",
+    "id": "4586133085",
     "name": "Willy Equipamentos",
     "shop": "car_parts",
     "building": "",
@@ -11000,7 +11000,7 @@
     "type": ""
   },
   {
-    "id": "node/4586133195",
+    "id": "4586133195",
     "name": "Optica Concepcion",
     "shop": "optician",
     "building": "",
@@ -11014,7 +11014,7 @@
     "type": ""
   },
   {
-    "id": "node/4586133196",
+    "id": "4586133196",
     "name": "PC Impresiones",
     "shop": "computer",
     "building": "",
@@ -11028,7 +11028,7 @@
     "type": ""
   },
   {
-    "id": "node/4586133197",
+    "id": "4586133197",
     "name": "Coiffure Unisex",
     "shop": "hairdresser",
     "building": "",
@@ -11042,7 +11042,7 @@
     "type": ""
   },
   {
-    "id": "node/4603791391",
+    "id": "4603791391",
     "name": "Los jardines",
     "shop": "supermarket",
     "building": "",
@@ -11056,7 +11056,7 @@
     "type": ""
   },
   {
-    "id": "node/4604357928",
+    "id": "4604357928",
     "name": "San Pedrito",
     "shop": "paint",
     "building": "",
@@ -11070,7 +11070,7 @@
     "type": ""
   },
   {
-    "id": "node/4605036024",
+    "id": "4605036024",
     "name": "Invis",
     "shop": "optician",
     "building": "",
@@ -11084,7 +11084,7 @@
     "type": ""
   },
   {
-    "id": "node/4605036029",
+    "id": "4605036029",
     "name": "Copetin Rosario",
     "shop": "convenience",
     "building": "",
@@ -11098,7 +11098,7 @@
     "type": ""
   },
   {
-    "id": "node/4605086534",
+    "id": "4605086534",
     "name": "PetShop & Veterinaria",
     "shop": "pet",
     "building": "",
@@ -11112,7 +11112,7 @@
     "type": ""
   },
   {
-    "id": "node/4605086548",
+    "id": "4605086548",
     "name": "Monica",
     "shop": "copyshop",
     "building": "",
@@ -11126,7 +11126,7 @@
     "type": ""
   },
   {
-    "id": "node/4605091239",
+    "id": "4605091239",
     "name": "Autoservice 3B",
     "shop": "convenience",
     "building": "",
@@ -11140,7 +11140,7 @@
     "type": ""
   },
   {
-    "id": "node/4605096867",
+    "id": "4605096867",
     "name": "Despensa Carlito",
     "shop": "convenience",
     "building": "",
@@ -11154,7 +11154,7 @@
     "type": ""
   },
   {
-    "id": "node/4605117669",
+    "id": "4605117669",
     "name": "San Jose",
     "shop": "furniture",
     "building": "",
@@ -11168,7 +11168,7 @@
     "type": ""
   },
   {
-    "id": "node/4605134327",
+    "id": "4605134327",
     "name": "Comercial Garbrielito",
     "shop": "clothes",
     "building": "",
@@ -11182,7 +11182,7 @@
     "type": ""
   },
   {
-    "id": "node/4606149745",
+    "id": "4606149745",
     "name": "Autoservice Park",
     "shop": "car_parts",
     "building": "",
@@ -11196,7 +11196,7 @@
     "type": ""
   },
   {
-    "id": "node/4606346347",
+    "id": "4606346347",
     "name": "A & L",
     "shop": "convenience",
     "building": "",
@@ -11210,7 +11210,7 @@
     "type": ""
   },
   {
-    "id": "node/4606346348",
+    "id": "4606346348",
     "name": "Catherin Cell",
     "shop": "mobile_phone",
     "building": "",
@@ -11224,7 +11224,7 @@
     "type": ""
   },
   {
-    "id": "node/4679259889",
+    "id": "4679259889",
     "name": "Grido",
     "shop": "confectionery",
     "building": "",
@@ -11238,7 +11238,7 @@
     "type": ""
   },
   {
-    "id": "node/4689551890",
+    "id": "4689551890",
     "name": "Nadia K Modas",
     "shop": "clothes",
     "building": "",
@@ -11252,7 +11252,7 @@
     "type": ""
   },
   {
-    "id": "node/5018187821",
+    "id": "5018187821",
     "name": "Comercial \u00d1asaindy",
     "shop": "convenience",
     "building": "",
@@ -11266,7 +11266,7 @@
     "type": ""
   },
   {
-    "id": "node/5043639646",
+    "id": "5043639646",
     "name": "BEKO Electricidad",
     "shop": "convenience",
     "building": "",
@@ -11280,7 +11280,7 @@
     "type": ""
   },
   {
-    "id": "node/5120804284",
+    "id": "5120804284",
     "name": "shop express",
     "shop": "convenience",
     "building": "",
@@ -11294,7 +11294,7 @@
     "type": ""
   },
   {
-    "id": "node/5143303521",
+    "id": "5143303521",
     "name": "Lavander\u00eda sol",
     "shop": "laundry",
     "building": "",
@@ -11308,7 +11308,7 @@
     "type": ""
   },
   {
-    "id": "node/5204005647",
+    "id": "5204005647",
     "name": "Lubrifiltros",
     "shop": "car_parts",
     "building": "",
@@ -11322,7 +11322,7 @@
     "type": ""
   },
   {
-    "id": "node/5536746121",
+    "id": "5536746121",
     "name": "Pan y Amor",
     "shop": "bakery",
     "building": "",
@@ -11336,7 +11336,7 @@
     "type": ""
   },
   {
-    "id": "node/5649857525",
+    "id": "5649857525",
     "name": "Cocodrilo Hogar",
     "shop": "convenience",
     "building": "",
@@ -11350,7 +11350,7 @@
     "type": ""
   },
   {
-    "id": "node/5649857530",
+    "id": "5649857530",
     "name": "Ferreter\u00eda Danielito",
     "shop": "convenience",
     "building": "",
@@ -11364,7 +11364,7 @@
     "type": ""
   },
   {
-    "id": "node/5836815385",
+    "id": "5836815385",
     "name": "San Luis",
     "shop": "laundry",
     "building": "",
@@ -11378,7 +11378,7 @@
     "type": ""
   },
   {
-    "id": "node/5836872185",
+    "id": "5836872185",
     "name": "Gomeria Ita Poty",
     "shop": "outdoor",
     "building": "",
@@ -11392,7 +11392,7 @@
     "type": ""
   },
   {
-    "id": "node/6055045411",
+    "id": "6055045411",
     "name": "Soportec Informatica & Electronica",
     "shop": "computer",
     "building": "",
@@ -11406,7 +11406,7 @@
     "type": ""
   },
   {
-    "id": "node/6055103030",
+    "id": "6055103030",
     "name": "Los Jardines Express Suc. Primavera",
     "shop": "supermarket",
     "building": "",
@@ -11420,7 +11420,7 @@
     "type": ""
   },
   {
-    "id": "node/6055114168",
+    "id": "6055114168",
     "name": "Cosas Del Pasado Antiguedades",
     "shop": "antiques",
     "building": "",
@@ -11434,7 +11434,7 @@
     "type": ""
   },
   {
-    "id": "node/6055295010",
+    "id": "6055295010",
     "name": "Pro Import",
     "shop": "electronics",
     "building": "",
@@ -11448,7 +11448,7 @@
     "type": ""
   },
   {
-    "id": "node/6164720353",
+    "id": "6164720353",
     "name": "Autoservice La Familia",
     "shop": "supermarket",
     "building": "",
@@ -11462,7 +11462,7 @@
     "type": ""
   },
   {
-    "id": "node/6182085888",
+    "id": "6182085888",
     "name": "Aeroparking",
     "shop": "travel_agency",
     "building": "",
@@ -11476,7 +11476,7 @@
     "type": ""
   },
   {
-    "id": "node/6699304885",
+    "id": "6699304885",
     "name": "Mini shop express MJ",
     "shop": "beverages",
     "building": "",
@@ -11490,7 +11490,7 @@
     "type": ""
   },
   {
-    "id": "node/7056415986",
+    "id": "7056415986",
     "name": "Orquidar\u00edo Florencia",
     "shop": "florist",
     "building": "",
@@ -11504,7 +11504,7 @@
     "type": ""
   },
   {
-    "id": "node/7396373042",
+    "id": "7396373042",
     "name": "Spacio",
     "shop": "convenience",
     "building": "",
@@ -11518,7 +11518,7 @@
     "type": ""
   },
   {
-    "id": "node/7403581308",
+    "id": "7403581308",
     "name": "Rapidito",
     "shop": "convenience",
     "building": "",
@@ -11532,7 +11532,7 @@
     "type": ""
   },
   {
-    "id": "node/7499167910",
+    "id": "7499167910",
     "name": "Bodega Gilardoni",
     "shop": "alcohol",
     "building": "",
@@ -11546,7 +11546,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843689",
+    "id": "7593843689",
     "name": "Rosi",
     "shop": "department_store",
     "building": "",
@@ -11560,7 +11560,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843690",
+    "id": "7593843690",
     "name": "La Bruguere\u00f1a",
     "shop": "department_store",
     "building": "",
@@ -11574,7 +11574,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843692",
+    "id": "7593843692",
     "name": "Santa Catalina",
     "shop": "department_store",
     "building": "",
@@ -11588,7 +11588,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843693",
+    "id": "7593843693",
     "name": "Marifer",
     "shop": "department_store",
     "building": "",
@@ -11602,7 +11602,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843695",
+    "id": "7593843695",
     "name": "Ruth",
     "shop": "department_store",
     "building": "",
@@ -11616,7 +11616,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843700",
+    "id": "7593843700",
     "name": "2 hermanos",
     "shop": "department_store",
     "building": "",
@@ -11630,7 +11630,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843701",
+    "id": "7593843701",
     "name": "Naty",
     "shop": "department_store",
     "building": "",
@@ -11644,7 +11644,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843702",
+    "id": "7593843702",
     "name": "San Francisco",
     "shop": "department_store",
     "building": "",
@@ -11658,7 +11658,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843703",
+    "id": "7593843703",
     "name": "Mirian",
     "shop": "department_store",
     "building": "",
@@ -11672,7 +11672,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843704",
+    "id": "7593843704",
     "name": "Baltasar",
     "shop": "department_store",
     "building": "",
@@ -11686,7 +11686,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843713",
+    "id": "7593843713",
     "name": "3 hermanos",
     "shop": "department_store",
     "building": "",
@@ -11700,7 +11700,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843714",
+    "id": "7593843714",
     "name": "Manjar",
     "shop": "department_store",
     "building": "",
@@ -11714,7 +11714,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843716",
+    "id": "7593843716",
     "name": "Liz Mabel",
     "shop": "department_store",
     "building": "",
@@ -11728,7 +11728,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843717",
+    "id": "7593843717",
     "name": "Antoni",
     "shop": "department_store",
     "building": "",
@@ -11742,7 +11742,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843718",
+    "id": "7593843718",
     "name": "Juancito",
     "shop": "department_store",
     "building": "",
@@ -11756,7 +11756,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843719",
+    "id": "7593843719",
     "name": "Romina comercial",
     "shop": "department_store",
     "building": "",
@@ -11770,7 +11770,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843720",
+    "id": "7593843720",
     "name": "Divino Ni\u00f1o",
     "shop": "department_store",
     "building": "",
@@ -11784,7 +11784,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843722",
+    "id": "7593843722",
     "name": "\u00d1a Cande",
     "shop": "department_store",
     "building": "",
@@ -11798,7 +11798,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843723",
+    "id": "7593843723",
     "name": "Cinthya",
     "shop": "department_store",
     "building": "",
@@ -11812,7 +11812,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843724",
+    "id": "7593843724",
     "name": "Zuny",
     "shop": "department_store",
     "building": "",
@@ -11826,7 +11826,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843725",
+    "id": "7593843725",
     "name": "Ojo",
     "shop": "department_store",
     "building": "",
@@ -11840,7 +11840,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843889",
+    "id": "7593843889",
     "name": "Los nietos",
     "shop": "department_store",
     "building": "",
@@ -11854,7 +11854,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843891",
+    "id": "7593843891",
     "name": "Santa Cecilia",
     "shop": "department_store",
     "building": "",
@@ -11868,7 +11868,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843892",
+    "id": "7593843892",
     "name": "Del Este",
     "shop": "department_store",
     "building": "",
@@ -11882,7 +11882,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843893",
+    "id": "7593843893",
     "name": "Ca\u00f1ete'i",
     "shop": "department_store",
     "building": "",
@@ -11896,7 +11896,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843894",
+    "id": "7593843894",
     "name": "L y F",
     "shop": "department_store",
     "building": "",
@@ -11910,7 +11910,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843895",
+    "id": "7593843895",
     "name": "Divino Ni\u00f1o",
     "shop": "department_store",
     "building": "",
@@ -11924,7 +11924,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843896",
+    "id": "7593843896",
     "name": "Condorito",
     "shop": "department_store",
     "building": "",
@@ -11938,7 +11938,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843897",
+    "id": "7593843897",
     "name": "Mar\u00eda Auxiliadora",
     "shop": "department_store",
     "building": "",
@@ -11952,7 +11952,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843901",
+    "id": "7593843901",
     "name": "Rocio",
     "shop": "department_store",
     "building": "",
@@ -11966,7 +11966,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843902",
+    "id": "7593843902",
     "name": "Rosmar",
     "shop": "department_store",
     "building": "",
@@ -11980,7 +11980,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843903",
+    "id": "7593843903",
     "name": "San Cayetano",
     "shop": "department_store",
     "building": "",
@@ -11994,7 +11994,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843904",
+    "id": "7593843904",
     "name": "La Pastora",
     "shop": "department_store",
     "building": "",
@@ -12008,7 +12008,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843905",
+    "id": "7593843905",
     "name": "Belencita",
     "shop": "department_store",
     "building": "",
@@ -12022,7 +12022,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843906",
+    "id": "7593843906",
     "name": "\u00d1a Ilu",
     "shop": "department_store",
     "building": "",
@@ -12036,7 +12036,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843907",
+    "id": "7593843907",
     "name": "Divino Ni\u00f1o",
     "shop": "department_store",
     "building": "",
@@ -12050,7 +12050,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843915",
+    "id": "7593843915",
     "name": "ZD",
     "shop": "department_store",
     "building": "",
@@ -12064,7 +12064,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843916",
+    "id": "7593843916",
     "name": "Beatriz",
     "shop": "department_store",
     "building": "",
@@ -12078,7 +12078,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843917",
+    "id": "7593843917",
     "name": "\u00d1a Isidora",
     "shop": "department_store",
     "building": "",
@@ -12092,7 +12092,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843918",
+    "id": "7593843918",
     "name": "La esquina",
     "shop": "department_store",
     "building": "",
@@ -12106,7 +12106,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843919",
+    "id": "7593843919",
     "name": "Kuarahy'a",
     "shop": "department_store",
     "building": "",
@@ -12120,7 +12120,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843920",
+    "id": "7593843920",
     "name": "3 Hermanas",
     "shop": "department_store",
     "building": "",
@@ -12134,7 +12134,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843922",
+    "id": "7593843922",
     "name": "San Jorge",
     "shop": "department_store",
     "building": "",
@@ -12148,7 +12148,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843924",
+    "id": "7593843924",
     "name": "Rosa Mistica San Juan",
     "shop": "department_store",
     "building": "",
@@ -12162,7 +12162,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843926",
+    "id": "7593843926",
     "name": "Mar\u00eda Bel\u00e9n",
     "shop": "department_store",
     "building": "",
@@ -12176,7 +12176,7 @@
     "type": ""
   },
   {
-    "id": "node/7593843927",
+    "id": "7593843927",
     "name": "3 hermanos",
     "shop": "department_store",
     "building": "",
@@ -12190,7 +12190,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844088",
+    "id": "7593844088",
     "name": "\u00d1a Chela",
     "shop": "department_store",
     "building": "",
@@ -12204,7 +12204,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844089",
+    "id": "7593844089",
     "name": "Poco a poco",
     "shop": "department_store",
     "building": "",
@@ -12218,7 +12218,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844091",
+    "id": "7593844091",
     "name": "Vivi",
     "shop": "department_store",
     "building": "",
@@ -12232,7 +12232,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844097",
+    "id": "7593844097",
     "name": "Beatriz",
     "shop": "department_store",
     "building": "",
@@ -12246,7 +12246,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844098",
+    "id": "7593844098",
     "name": "Dos hermanos",
     "shop": "department_store",
     "building": "",
@@ -12260,7 +12260,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844099",
+    "id": "7593844099",
     "name": "Celina",
     "shop": "department_store",
     "building": "",
@@ -12274,7 +12274,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844100",
+    "id": "7593844100",
     "name": "Las palmeras",
     "shop": "department_store",
     "building": "",
@@ -12288,7 +12288,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844101",
+    "id": "7593844101",
     "name": "\u00d1a Limpia",
     "shop": "department_store",
     "building": "",
@@ -12302,7 +12302,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844102",
+    "id": "7593844102",
     "name": "San Cayetano",
     "shop": "department_store",
     "building": "",
@@ -12316,7 +12316,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844103",
+    "id": "7593844103",
     "name": "\u00d1a Blanca",
     "shop": "department_store",
     "building": "",
@@ -12330,7 +12330,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844104",
+    "id": "7593844104",
     "name": "Mar\u00eda Auxiliadora 2",
     "shop": "department_store",
     "building": "",
@@ -12344,7 +12344,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844106",
+    "id": "7593844106",
     "name": "Patu",
     "shop": "department_store",
     "building": "",
@@ -12358,7 +12358,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844112",
+    "id": "7593844112",
     "name": "Ale",
     "shop": "department_store",
     "building": "",
@@ -12372,7 +12372,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844114",
+    "id": "7593844114",
     "name": "Norma",
     "shop": "department_store",
     "building": "",
@@ -12386,7 +12386,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844290",
+    "id": "7593844290",
     "name": "Adela",
     "shop": "department_store",
     "building": "",
@@ -12400,7 +12400,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844293",
+    "id": "7593844293",
     "name": "Rosita",
     "shop": "department_store",
     "building": "",
@@ -12414,7 +12414,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844294",
+    "id": "7593844294",
     "name": "Soledad",
     "shop": "department_store",
     "building": "",
@@ -12428,7 +12428,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844295",
+    "id": "7593844295",
     "name": "L\u00f3pez",
     "shop": "department_store",
     "building": "",
@@ -12442,7 +12442,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844296",
+    "id": "7593844296",
     "name": "Kiosco Cintia",
     "shop": "department_store",
     "building": "",
@@ -12456,7 +12456,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844297",
+    "id": "7593844297",
     "name": "Tania",
     "shop": "department_store",
     "building": "",
@@ -12470,7 +12470,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844298",
+    "id": "7593844298",
     "name": "R y K",
     "shop": "department_store",
     "building": "",
@@ -12484,7 +12484,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844299",
+    "id": "7593844299",
     "name": "8 de diciembre",
     "shop": "department_store",
     "building": "",
@@ -12498,7 +12498,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844300",
+    "id": "7593844300",
     "name": "4 hermanos",
     "shop": "department_store",
     "building": "",
@@ -12512,7 +12512,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844303",
+    "id": "7593844303",
     "name": "\u00d1a Isa",
     "shop": "department_store",
     "building": "",
@@ -12526,7 +12526,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844304",
+    "id": "7593844304",
     "name": "Mburucuya",
     "shop": "department_store",
     "building": "",
@@ -12540,7 +12540,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844311",
+    "id": "7593844311",
     "name": "Yessica",
     "shop": "department_store",
     "building": "",
@@ -12554,7 +12554,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844312",
+    "id": "7593844312",
     "name": "San Isidro",
     "shop": "department_store",
     "building": "",
@@ -12568,7 +12568,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844387",
+    "id": "7593844387",
     "name": "\u00d1a Mari",
     "shop": "department_store",
     "building": "",
@@ -12582,7 +12582,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844393",
+    "id": "7593844393",
     "name": "Rosa Mistica",
     "shop": "department_store",
     "building": "",
@@ -12596,7 +12596,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844395",
+    "id": "7593844395",
     "name": "\u00d1a Blanca",
     "shop": "department_store",
     "building": "",
@@ -12610,7 +12610,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844396",
+    "id": "7593844396",
     "name": "Lucas Mateo",
     "shop": "department_store",
     "building": "",
@@ -12624,7 +12624,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844397",
+    "id": "7593844397",
     "name": "Los nietos",
     "shop": "department_store",
     "building": "",
@@ -12638,7 +12638,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844398",
+    "id": "7593844398",
     "name": "Divino Ni\u00f1o",
     "shop": "department_store",
     "building": "",
@@ -12652,7 +12652,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844399",
+    "id": "7593844399",
     "name": "Tunchi mongo 2",
     "shop": "department_store",
     "building": "",
@@ -12666,7 +12666,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844400",
+    "id": "7593844400",
     "name": "La Norte\u00f1a",
     "shop": "department_store",
     "building": "",
@@ -12680,7 +12680,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844401",
+    "id": "7593844401",
     "name": "\u00d1a Leo",
     "shop": "department_store",
     "building": "",
@@ -12694,7 +12694,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844403",
+    "id": "7593844403",
     "name": "Beloto",
     "shop": "department_store",
     "building": "",
@@ -12708,7 +12708,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844405",
+    "id": "7593844405",
     "name": "Kure'i",
     "shop": "department_store",
     "building": "",
@@ -12722,7 +12722,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844486",
+    "id": "7593844486",
     "name": "San Expedito",
     "shop": "department_store",
     "building": "",
@@ -12736,7 +12736,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844487",
+    "id": "7593844487",
     "name": "\u00d1a Eli",
     "shop": "department_store",
     "building": "",
@@ -12750,7 +12750,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844491",
+    "id": "7593844491",
     "name": "La Familia",
     "shop": "department_store",
     "building": "",
@@ -12764,7 +12764,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844492",
+    "id": "7593844492",
     "name": "Auriazul",
     "shop": "department_store",
     "building": "",
@@ -12778,7 +12778,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844493",
+    "id": "7593844493",
     "name": "Pereira",
     "shop": "department_store",
     "building": "",
@@ -12792,7 +12792,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844494",
+    "id": "7593844494",
     "name": "Rubencito",
     "shop": "department_store",
     "building": "",
@@ -12806,7 +12806,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844495",
+    "id": "7593844495",
     "name": "\u00d1a Adela",
     "shop": "department_store",
     "building": "",
@@ -12820,7 +12820,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844496",
+    "id": "7593844496",
     "name": "Poch",
     "shop": "travel_agency",
     "building": "",
@@ -12834,7 +12834,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844587",
+    "id": "7593844587",
     "name": "Nancy",
     "shop": "department_store",
     "building": "",
@@ -12848,7 +12848,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844588",
+    "id": "7593844588",
     "name": "Alegr\u00eda",
     "shop": "department_store",
     "building": "",
@@ -12862,7 +12862,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844594",
+    "id": "7593844594",
     "name": "M y M",
     "shop": "department_store",
     "building": "",
@@ -12876,7 +12876,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844595",
+    "id": "7593844595",
     "name": "San Rosa",
     "shop": "department_store",
     "building": "",
@@ -12890,7 +12890,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844596",
+    "id": "7593844596",
     "name": "\u00d1a Luci",
     "shop": "department_store",
     "building": "",
@@ -12904,7 +12904,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844597",
+    "id": "7593844597",
     "name": "Guaira",
     "shop": "department_store",
     "building": "",
@@ -12918,7 +12918,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844598",
+    "id": "7593844598",
     "name": "Florido",
     "shop": "department_store",
     "building": "",
@@ -12932,7 +12932,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844601",
+    "id": "7593844601",
     "name": "Tunchi mongo",
     "shop": "department_store",
     "building": "",
@@ -12946,7 +12946,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844602",
+    "id": "7593844602",
     "name": "Justito",
     "shop": "department_store",
     "building": "",
@@ -12960,7 +12960,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844603",
+    "id": "7593844603",
     "name": "Tunchi mongo 3",
     "shop": "department_store",
     "building": "",
@@ -12974,7 +12974,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844604",
+    "id": "7593844604",
     "name": "Dalmacia",
     "shop": "department_store",
     "building": "",
@@ -12988,7 +12988,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844605",
+    "id": "7593844605",
     "name": "29 de septiembre",
     "shop": "department_store",
     "building": "",
@@ -13002,7 +13002,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844606",
+    "id": "7593844606",
     "name": "Mareco",
     "shop": "department_store",
     "building": "",
@@ -13016,7 +13016,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844608",
+    "id": "7593844608",
     "name": "Teresa",
     "shop": "department_store",
     "building": "",
@@ -13030,7 +13030,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844611",
+    "id": "7593844611",
     "name": "Mar\u00eda Bel\u00e9n",
     "shop": "department_store",
     "building": "",
@@ -13044,7 +13044,7 @@
     "type": ""
   },
   {
-    "id": "node/7593844612",
+    "id": "7593844612",
     "name": "Naty",
     "shop": "department_store",
     "building": "",
@@ -13058,7 +13058,7 @@
     "type": ""
   },
   {
-    "id": "node/7593850187",
+    "id": "7593850187",
     "name": "Mati",
     "shop": "department_store",
     "building": "",
@@ -13072,7 +13072,7 @@
     "type": ""
   },
   {
-    "id": "node/7593850188",
+    "id": "7593850188",
     "name": "Duvin",
     "shop": "department_store",
     "building": "",
@@ -13086,7 +13086,7 @@
     "type": ""
   },
   {
-    "id": "node/7593850189",
+    "id": "7593850189",
     "name": "\u00d1a Ciri",
     "shop": "department_store",
     "building": "",
@@ -13100,7 +13100,7 @@
     "type": ""
   },
   {
-    "id": "node/7593850190",
+    "id": "7593850190",
     "name": "KLN",
     "shop": "department_store",
     "building": "",
@@ -13114,7 +13114,7 @@
     "type": ""
   },
   {
-    "id": "node/7593850191",
+    "id": "7593850191",
     "name": "Don Cacho",
     "shop": "department_store",
     "building": "",
@@ -13128,7 +13128,7 @@
     "type": ""
   },
   {
-    "id": "node/7593850986",
+    "id": "7593850986",
     "name": "Mar\u00eda Jazm\u00edn",
     "shop": "department_store",
     "building": "",
@@ -13142,7 +13142,7 @@
     "type": ""
   },
   {
-    "id": "node/7593850987",
+    "id": "7593850987",
     "name": "Alesito",
     "shop": "department_store",
     "building": "",
@@ -13156,7 +13156,7 @@
     "type": ""
   },
   {
-    "id": "node/7593850989",
+    "id": "7593850989",
     "name": "Arami",
     "shop": "department_store",
     "building": "",
@@ -13170,7 +13170,7 @@
     "type": ""
   },
   {
-    "id": "node/7593850990",
+    "id": "7593850990",
     "name": "Dulce y Salado",
     "shop": "department_store",
     "building": "",
@@ -13184,7 +13184,7 @@
     "type": ""
   },
   {
-    "id": "node/7593850991",
+    "id": "7593850991",
     "name": "\u00d1a Mirta",
     "shop": "department_store",
     "building": "",
@@ -13198,7 +13198,7 @@
     "type": ""
   },
   {
-    "id": "node/7593850993",
+    "id": "7593850993",
     "name": "Celina",
     "shop": "department_store",
     "building": "",
@@ -13212,7 +13212,7 @@
     "type": ""
   },
   {
-    "id": "node/7593850994",
+    "id": "7593850994",
     "name": "Mitaku\u00f1a",
     "shop": "department_store",
     "building": "",
@@ -13226,7 +13226,7 @@
     "type": ""
   },
   {
-    "id": "node/7593851885",
+    "id": "7593851885",
     "name": "Cachorro",
     "shop": "department_store",
     "building": "",
@@ -13240,7 +13240,7 @@
     "type": ""
   },
   {
-    "id": "node/7593851886",
+    "id": "7593851886",
     "name": "Zuny",
     "shop": "department_store",
     "building": "",
@@ -13254,7 +13254,7 @@
     "type": ""
   },
   {
-    "id": "node/7593851887",
+    "id": "7593851887",
     "name": "Liz Zarate",
     "shop": "department_store",
     "building": "",
@@ -13268,7 +13268,7 @@
     "type": ""
   },
   {
-    "id": "node/7593851889",
+    "id": "7593851889",
     "name": "Melani",
     "shop": "department_store",
     "building": "",
@@ -13282,7 +13282,7 @@
     "type": ""
   },
   {
-    "id": "node/7593851891",
+    "id": "7593851891",
     "name": "Juan Carlos",
     "shop": "department_store",
     "building": "",
@@ -13296,7 +13296,7 @@
     "type": ""
   },
   {
-    "id": "node/7593851892",
+    "id": "7593851892",
     "name": "\u00d1a Tere",
     "shop": "department_store",
     "building": "",
@@ -13310,7 +13310,7 @@
     "type": ""
   },
   {
-    "id": "node/7593852186",
+    "id": "7593852186",
     "name": "\u00d1a Amelia",
     "shop": "department_store",
     "building": "",
@@ -13324,7 +13324,7 @@
     "type": ""
   },
   {
-    "id": "node/7593852385",
+    "id": "7593852385",
     "name": "Remigia",
     "shop": "department_store",
     "building": "",
@@ -13338,7 +13338,7 @@
     "type": ""
   },
   {
-    "id": "node/7593852386",
+    "id": "7593852386",
     "name": "J.J.",
     "shop": "department_store",
     "building": "",
@@ -13352,7 +13352,7 @@
     "type": ""
   },
   {
-    "id": "node/7593852387",
+    "id": "7593852387",
     "name": "Mar\u00eda Auxiliadora",
     "shop": "department_store",
     "building": "",
@@ -13366,7 +13366,7 @@
     "type": ""
   },
   {
-    "id": "node/7593852388",
+    "id": "7593852388",
     "name": "San Roque",
     "shop": "department_store",
     "building": "",
@@ -13380,7 +13380,7 @@
     "type": ""
   },
   {
-    "id": "node/7593852389",
+    "id": "7593852389",
     "name": "Gloria",
     "shop": "department_store",
     "building": "",
@@ -13394,7 +13394,7 @@
     "type": ""
   },
   {
-    "id": "node/7593858886",
+    "id": "7593858886",
     "name": "Santiaguito",
     "shop": "department_store",
     "building": "",
@@ -13408,7 +13408,7 @@
     "type": ""
   },
   {
-    "id": "node/7593858887",
+    "id": "7593858887",
     "name": "Blanca",
     "shop": "department_store",
     "building": "",
@@ -13422,7 +13422,7 @@
     "type": ""
   },
   {
-    "id": "node/7593859085",
+    "id": "7593859085",
     "name": "T\u00edo",
     "shop": "department_store",
     "building": "",
@@ -13436,7 +13436,7 @@
     "type": ""
   },
   {
-    "id": "node/7593859088",
+    "id": "7593859088",
     "name": "Fabiola",
     "shop": "department_store",
     "building": "",
@@ -13450,7 +13450,7 @@
     "type": ""
   },
   {
-    "id": "node/7593859785",
+    "id": "7593859785",
     "name": "Rotela",
     "shop": "department_store",
     "building": "",
@@ -13464,7 +13464,7 @@
     "type": ""
   },
   {
-    "id": "node/7593859786",
+    "id": "7593859786",
     "name": "2 hermanos",
     "shop": "department_store",
     "building": "",
@@ -13478,7 +13478,7 @@
     "type": ""
   },
   {
-    "id": "node/7593859787",
+    "id": "7593859787",
     "name": "Loma verde",
     "shop": "department_store",
     "building": "",
@@ -13492,7 +13492,7 @@
     "type": ""
   },
   {
-    "id": "node/7593859789",
+    "id": "7593859789",
     "name": "Librer\u00eda las hermanas",
     "shop": "department_store",
     "building": "",
@@ -13506,7 +13506,7 @@
     "type": ""
   },
   {
-    "id": "node/7649774357",
+    "id": "7649774357",
     "name": "NSA Logistica",
     "shop": "ticket",
     "building": "",
@@ -13520,7 +13520,7 @@
     "type": ""
   },
   {
-    "id": "node/7649774358",
+    "id": "7649774358",
     "name": "Luque Farmacia San Juan - NSA",
     "shop": "ticket",
     "building": "",
@@ -13534,7 +13534,7 @@
     "type": ""
   },
   {
-    "id": "node/7844803755",
+    "id": "7844803755",
     "name": "Hipermercado Luisito",
     "shop": "mall",
     "building": "",
@@ -13548,7 +13548,7 @@
     "type": ""
   },
   {
-    "id": "node/8078208218",
+    "id": "8078208218",
     "name": "Ka'a Termos",
     "shop": "variety_store",
     "building": "",
@@ -13562,7 +13562,7 @@
     "type": ""
   },
   {
-    "id": "node/8638994544",
+    "id": "8638994544",
     "name": "DR. V.",
     "shop": "car_repair",
     "building": "",
@@ -13576,7 +13576,7 @@
     "type": ""
   },
   {
-    "id": "node/8638994546",
+    "id": "8638994546",
     "name": "TAJY",
     "shop": "stationery",
     "building": "",
@@ -13590,7 +13590,7 @@
     "type": ""
   },
   {
-    "id": "node/8638994551",
+    "id": "8638994551",
     "name": "Carmelo Muebles",
     "shop": "furniture",
     "building": "",
@@ -13604,7 +13604,7 @@
     "type": ""
   },
   {
-    "id": "node/8737823447",
+    "id": "8737823447",
     "name": "Super S.F",
     "shop": "supermarket",
     "building": "",
@@ -13618,7 +13618,7 @@
     "type": ""
   },
   {
-    "id": "node/8737894459",
+    "id": "8737894459",
     "name": "Automovil Supply",
     "shop": "mall",
     "building": "",
@@ -13632,7 +13632,7 @@
     "type": ""
   },
   {
-    "id": "node/9913538534",
+    "id": "9913538534",
     "name": "Ferreteria FERREPLUS",
     "shop": "hardware",
     "building": "",
@@ -13646,7 +13646,7 @@
     "type": ""
   },
   {
-    "id": "node/10237569461",
+    "id": "10237569461",
     "name": "Ferremas Comercial S.A.",
     "shop": "hardware",
     "building": "",
@@ -13660,7 +13660,7 @@
     "type": ""
   },
   {
-    "id": "node/10249363568",
+    "id": "10249363568",
     "name": "Helena Spa",
     "shop": "beauty",
     "building": "",
@@ -13674,7 +13674,7 @@
     "type": ""
   },
   {
-    "id": "node/10249363575",
+    "id": "10249363575",
     "name": "Pito y Flauta",
     "shop": "clothes",
     "building": "",
@@ -13688,7 +13688,7 @@
     "type": ""
   },
   {
-    "id": "node/10278911809",
+    "id": "10278911809",
     "name": "Alineacion y Balanceo Avalos Service",
     "shop": "car_repair",
     "building": "",
@@ -13702,7 +13702,7 @@
     "type": ""
   },
   {
-    "id": "node/10889805899",
+    "id": "10889805899",
     "name": "Tienda Maria Juana",
     "shop": "convenience",
     "building": "",
@@ -13716,7 +13716,7 @@
     "type": ""
   },
   {
-    "id": "node/11065567745",
+    "id": "11065567745",
     "name": "Plaza Madero",
     "shop": "mall",
     "building": "",
@@ -13730,7 +13730,7 @@
     "type": ""
   },
   {
-    "id": "node/11258695014",
+    "id": "11258695014",
     "name": "Autoservice Los Rosales",
     "shop": "convenience",
     "building": "",
@@ -13744,7 +13744,7 @@
     "type": ""
   },
   {
-    "id": "node/11875149409",
+    "id": "11875149409",
     "name": "Boutique Divinas Tentaciones",
     "shop": "clothes",
     "building": "",

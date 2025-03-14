@@ -68,12 +68,19 @@ export class SeedService {
     const categoriesData = this.loadCategoriesJson(); 
     const categoriesRta = await categoriesRepo.save(categoriesData);
 
+    // -------- STORES --------
+    // 🔹 Obtener las tiendas de la base de datos ANTES de hacer el map()
+    const storesRta = await storesRepo.find();
+    console.log('hola', storesRta)
+
+    const storesData = this.loadStoresJson();
+    await storesRepo.save(storesData);
+
     // -------- Products --------
 
     const productsData = this.loadProductsJson().map((product) => {
-      const categoryEntity = categoriesRta.find(
-        (item) => item.id === parseInt(product.category_id, 10),
-      );
+      const categoryEntity = categoriesRta.find((item) => item.id === parseInt(product.category_id, 10));
+      const storeEntity = storesData.find((item) => item.id === parseInt(product.locationId, 10));
 
       return {
         title: product.title,
@@ -81,7 +88,7 @@ export class SeedService {
         description: product.description,
         images: product.images,
         category: categoryEntity,
-        locationId: String(product.locationId), 
+        store: storeEntity,
       };
     });
 
@@ -104,29 +111,6 @@ export class SeedService {
 
     await addressesRepo.save(addressesData);
 
-    // -------- STORES --------
-    // 🔹 Obtener las tiendas de la base de datos ANTES de hacer el map()
-    const storesRta = await storesRepo.find();
-    console.log('hola', storesRta)
-
-    const storesData = this.loadStoresJson().map((store) => {
-      console.log('➡️ Procesando store:', store);
-
-      const storeId = store.id.replace('way/', '');
-      console.log('rta', storesRta)
-      const storeEntity = storesRta.find(s => String(s.id) === storeId) ?? null; // ❌ ERROR: storesRta aún no existe
-
-      console.log('🏪 storeEntity seleccionado:', storeEntity);
-
-      return {
-        name: store.name ?? 'Unknown Store',
-        store: storeEntity,
-        building: store.building ?? '',
-        geometry: store.geometry,
-      };
-    });
-
-    await storesRepo.save(storesData);
 
     // -------- COUNTERS --------
 
