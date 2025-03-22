@@ -79,8 +79,9 @@ export class SeedService {
     // -------- Products --------
 
     const productsData = this.loadProductsJson().map((product) => {
-      const categoryEntity = categoriesRta.find((item) => item.id === product.category_id);
-      const storeEntity = storesData.find((item) => item.id === product.locationId);
+      const categoryEntity = categoriesRta.find(
+        (item) => item.id === parseInt(product.category_id, 10),
+      );
 
       return {
         title: product.title,
@@ -88,7 +89,7 @@ export class SeedService {
         description: product.description,
         images: product.images,
         category: categoryEntity,
-        store: storeEntity,
+        locationId: String(product.locationId),
       };
     });
 

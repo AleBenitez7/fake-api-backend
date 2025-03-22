@@ -24,8 +24,8 @@ export class Store {
     @Column({ nullable: true })
     shop: string;
 
-    @OneToMany(() => Product, (product) => product.store)
-    products: Product[];
+    // @OneToMany(() => Product, (product) => product.store)
+    // products: Product[];
 
 
     @Field()

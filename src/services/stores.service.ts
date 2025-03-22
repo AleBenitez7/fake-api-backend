@@ -13,11 +13,11 @@ export class StoresService {
 
 
     findAll() {
-        return this.storeRepository.find({ relations: ['products'] });
+        return this.storeRepository.find();
     }
 
     findOne(id: number) {
-        return this.storeRepository.findOne({ where: { id }, relations: ['products'] });
+        return this.storeRepository.findOne({ where: { id }});
     }
 
     create(data: CreateStoreDto) {

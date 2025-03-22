@@ -61,7 +61,7 @@ export class Product {
   })
   updatedAt: Date;
 
-  @ManyToOne(() => Store, (store) => store.products)
-  @JoinColumn({ name: 'locationId' })
-  store: Store;
+  // @ManyToOne(() => Store, (store) => store.products)
+  // @JoinColumn({ name: 'locationId' })
+  // store: Store;
 }
