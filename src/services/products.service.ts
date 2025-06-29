@@ -41,22 +41,24 @@ export class ProductsService {
   getAll(params: FilterProductsDto) {
     const options: FindManyOptions<Product> = {
       relations: ['category'],
+      where: {},
     };
 
-    const { price, price_min, price_max } = params;
+    const { price, price_min, price_max, title, categoryId } = params;
     if (price && !price_min && !price_max) {
       options.where = {
+        ...options.where,
         price,
       };
     }
 
     if (!price && price_min && price_max) {
       options.where = {
+        ...options.where,
         price: And(MoreThanOrEqual(price_min), LessThanOrEqual(price_max)),
       };
     }
 
-    const { title } = params;
     if (title) {
       options.where = {
         ...options.where,
@@ -64,7 +66,6 @@ export class ProductsService {
       };
     }
 
-    const { categoryId } = params;
     if (categoryId) {
       options.where = {
         ...options.where,
@@ -73,9 +74,10 @@ export class ProductsService {
     }
 
     if (params?.limit > 0 && params?.offset >= 0) {
-      options.take = params?.limit;
-      options.skip = params?.offset;
+      options.take = params.limit;
+      options.skip = params.offset;
     }
+
     return this.productsRepo.find(options);
   }
 
