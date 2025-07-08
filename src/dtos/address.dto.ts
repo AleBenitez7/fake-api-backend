@@ -69,7 +69,7 @@ export class UpdateAddressDto {
     address?: string;
 
     @ApiProperty()
-    @IsPhoneNumber()
+    @IsString()
     @IsOptional()
     @Field({ nullable: true })
     phone?: string;
